@@ -30,21 +30,23 @@
 |Date of death|April 6th 1912|
 |Place of death|Québec, QC|
 |Age at death|44 y-o|
-|Burial site|[Mount Hermon Cemetery](https://www.mounthermoncemetery.com/), Quebec City, QC|
+|Burial site|[Mount Hermon Cemetery](https://www.mounthermoncemetery.com/), Lot 1160, section H. Quebec City, QC|
 
 Sergeant-Major RCGA - Royal Canadian Garrison Artillery, 8th Regiment, "B" Battery - Québec City, QC  
 
-Husband of Catherine Agnes Fellows née Black and ( - Feb 5th 1897)    
+Husband of Catherine Agnes Fellows née Black    
 
-Catherine Black death Feb 5th 1897 (Friday)    
+    Catherine Black (b Jan 1873 - d Feb 5th 1897 Friday)  
 
-Service from residence at the Citadel to St Matthew's Church, by Revd Lennox Williams, Revd Mr Scott.    
+    Dies following an accident with a horse cart inside Quebec City's Walls.
+    
+    Service departed from residence at the Citadel to St Matthew's Church, conducted by Revd Lennox Williams and Revd Mr Scott.    
+    
+    Burial Mount Hermon Cemetery   Feb 8th 1897 (Monday)   
+    
+    Still-born child, buried Feb 6th 1897 (Saturday)
 
-Burial Mount Hermon Cemetery   Feb 8th 1897 (Monday)   
-
-Still-born child buried Feb 6th 1897 (Saturday)
-
-Their daughter, Irene May Fellows, is sent to be raised by her uncle and aunt, TVF Maj William Grincell Fellows and Mrs Fellows, that live in Montréal at this time. 
+Their daughter, Irene May Fellows, is sent to be raised by her uncle and aunt, TVF Maj William Grincell Fellows and Mrs Alice Maud Emily Fellows née Higgins, that live in Montréal at this time. 
 
 
 Remaried Caroline H Reid (1873 – 1948)   
