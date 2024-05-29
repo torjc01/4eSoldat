@@ -267,14 +267,14 @@ His sister, Florence May Young was a Nursing Sister in the war, decorated with t
 
 [His Father-in-law: SGM Alfred Grincell Fellows](./agfellows.md)
 
-[His Wife"s Uncle: Maj TVF William Grincell Fellows](./mfyoung.md)
+[His Wife's Uncle: Maj TVF William Grincell Fellows](./wgfellows.md)
 
 [His son-in-law: Fr Harry Ralph Thompson](./hrthompson.md)
 
 
 ## Membres de la famille ayant étés Vénérable Maîtres d'Albion
 
-Le TVF Maj William Grincell Fellows, oncle de la femme du Fr Young, a été le VM d'Albion pendant l'année 1908; ensuite, son père, le TVF Maj Alexander Young à été le VM pendant l'année 1913, peu de temps avant d'être envoyé au théatre de guerre d'Europe, 
+Right Worshipful Brother William Grincell Fellows had the distinction of being the Worshipful Master of the two oldest lodges in Québec: Antiquity Lodge No.1 in 1899 and Albion Lodge No.2 in 1908. 
 
 Right Worshipful Brother Alexander Young was the Master of the Lodge for the year of 1913, shortly before deploying to the European theatre on First World War, where he would pay the ultimate sacrifice for his country.
 
