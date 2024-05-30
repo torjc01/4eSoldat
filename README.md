@@ -390,7 +390,7 @@ https://www.ville.quebec.qc.ca/citoyens/patrimoine/toponymie/anciens_toponymes.a
 *Hong Kong Veteran’s Association of Canada.* **The Royal Rifles of Canada in Hong   
 Kong:1941-1945.** Progressive Publications, Sherbrooke, QC, 1980
 
-##  Acknowledgements / Remeriements  
+##  Acknowledgements / Remerciements  
 
 ### **Société de Généalogie de Québec**   
 
