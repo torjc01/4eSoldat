@@ -33,6 +33,11 @@
 
 <img src="./images/genTreeFellows.jpg" width="1200"/>
 
+Wife:  **Alice Maud Emily Higgins**   
+b 1871 Gosport, Hampshire, England (1871 England Census)[^6]    
+d March 12th 1936, Montréal, QC [^7]   
+Daughter of Henry Higgins, Albion's Worshipful Master (1898-1900)[^3]  
+
 # Northwest Rebellion 1885
 
 - Relief of Battleford (24th April);
@@ -196,3 +201,6 @@ https://numerique.banq.qc.ca/patrimoine/details/52327/2959538?docsearchtext=grin
 
 [^5]: The Quebec chronicle, 1918-09-27, Collections de BAnQ. Departure of a popular officer. https://numerique.banq.qc.ca/patrimoine/details/52327/3611812?docsearchtext=william%20fellows
 
+[^6]: 1871 Englanc Census. https://www.ancestry.ca/imageviewer/collections/7619/images/HAMRG10_1153_1156-0085?pId=375291
+
+[^7]: Canadian Headstones. https://canadianheadstones.ca/wp/headstone-vendor/?wpda_search_column_idperson=1410654
