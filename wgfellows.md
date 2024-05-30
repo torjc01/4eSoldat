@@ -21,11 +21,10 @@
 |Name|[William Grincell Fellows](https://www.ancestry.ca/family-tree/person/tree/197335275/person/332580303118/facts)|
 |Date of birth|Mar 1st 1865|
 |Place of birth|Limerick, Ireland|
-|Father||
-|Mother||
+|Father|Joseph Grinsell Fellowes|
+|Mother|Mary Anne Fletcher|
 |Spouse| Alice Maud Emily Higgins| 
-|Next of kin||
-|Occupation|Military, Major, Royal Canadian Artillery|
+|Occupation|Military, Major, Royal Canadian Artillery, Quebec|
 |Religion||
 |Date of death|Sept 17th 1947|
 |Place of death|Montreal, Qc|
