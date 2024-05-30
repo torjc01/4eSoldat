@@ -167,7 +167,7 @@ He served in CANADA, England and France with the 12th Battalion. 11th Brigade Ma
 
 <img src="https://www.hkvca.ca/cforcedata/ext_files/comments/images/X96.jpg" />
 
-**In the fourth row from the bottom, 3rd from the left is X96 Major Charles A. Young of the Royal Rifles of Canada. <br/>Apparently this photo was taken just after liberation. <br/>Source: Hong Kong Verterans Association.**
+**In the fourth row from the bottom, 3rd from the left is X96 Major Charles A. Young of the Royal Rifles of Canada. <br/>Apparently this photo was taken just after liberation. <br/>Source: Hong Kong Veterans Association.**
 
 **Decorations:**   
 
