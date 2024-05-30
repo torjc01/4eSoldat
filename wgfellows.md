@@ -140,7 +140,7 @@ In fraternal societies, Major Fellows is also well-known. In the Masonic Order h
 The members of Major Fellows family have long been connected with the military. His father served in the Imperial Army and each of his brothers have had military service, all of them attaining to high rank. Two of his sons are on active service. Lieut. William Fellows, leaving here as corporal with the 2nd Battalion  C.E.F., which was then under the command of Major-General Watsca, by whom he was recommended for his commission. Another son Lieut. Harold Fellows is in the Royal Air Force and at the beginning of this month was reported missing, but there is now some grounds for believing that this was a mistake.
 The many military and civilian friends of Major Fellows will wish him a long life and good health to enjoy a well-earned pension, and will also extend to Mrs. Fellows and family every happiness and good fortune in Montreal, where they have now taken up their residence.
 
-**Source: The Quebec chronicle, 1918-09-27, Collections de BAnQ.**
+**Source: The Quebec chronicle, 1918-09-27, Collections de BAnQ.**[^5]
 
 
 # Obituary
@@ -170,9 +170,9 @@ https://canadiangreatwarproject.com/person.php?pid=962599
 
 ## Newspapers clippings 
 
-The daily witness, 1904-04-20, Collections de BAnQ.
+The daily witness, 1904-04-20, Collections de BAnQ. A military Promotion - W G Fellows.
 https://numerique.banq.qc.ca/patrimoine/details/52327/4704113?docsearchtext=william%20fellows
-A military Promotion - W G Fellows
+
 
 The Canada Gazette. Ottawa, Saturday, Jan 4th, 1908. Promotions William Grincell Fellows.    
 https://books.google.ca/books?id=ICU-AQAAMAAJ&lpg=PA1923&ots=fSxzPNBJfE&dq=%22william%20grincell%20fellows%22&hl=pt-BR&pg=PA1701#v=onepage&q&f=false
@@ -196,4 +196,6 @@ https://numerique.banq.qc.ca/patrimoine/details/52327/2959538?docsearchtext=grin
 [^3]:[Summons] Albion's monthly summons for the communications (Quebec:2024)
 
 [^4]: Annuaires de la ville de Québec, 1822-1976. https://numerique.banq.qc.ca/patrimoine/details/52327/3691259?docsearchtext=william%20fellows
+
+[^5]: The Quebec chronicle, 1918-09-27, Collections de BAnQ. Departure of a popular officer. https://numerique.banq.qc.ca/patrimoine/details/52327/3611812?docsearchtext=william%20fellows
 
