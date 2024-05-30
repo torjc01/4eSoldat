@@ -107,6 +107,10 @@ June 3rd 1916 - Death of Alexander Young, in Ypres.
 7. Quarter-Master Sergeant, 12th Battalion, Infantry (Army) 1915-08-23 to 1915-10-14    
 8. Sergeant, 12th Battalion, Infantry (Army) 1914-09-29 to 1915-08-23  
 
+**In the Canadian Emma Gees:**    
+p 116 - 4th Btn CMGC Headquarters    
+p 166 - Lieut Young wounded
+
 **From the Certificate of Service:** 
 
 He served in CANADA, England and France with the 12th Battalion. 11th Brigade Machine Gun Company. 16th Canadian Machine Gun Company. Canadian Machine Gun Pool, and 4th Battalion CMCG, and was STRUCK OFF THE STRENGTH on the Twelfth day of June 1919 by reason of General Demobilization.  
