@@ -114,10 +114,7 @@ We can find him listed as Senior Warden of Albion Lodge on the "Annuaires de la 
 
 <img src="./images/pastMasters.png" />
 
-Sources:    
-Albion Roll Call.     
-The Quebec chronicle, 1918-09-27.   
-Antiquity Lodge 2 books.
+**Source: Albion Roll Call**[^3]
 
 # News about depart from the military 
 
