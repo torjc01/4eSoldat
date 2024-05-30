@@ -239,13 +239,13 @@ The tomb is located in lot #1840, section K, and is located by the GPS coordinat
 
 ## Arbre généalogique
 
-Arbre généalogique approximative de la famille du Fr Charles Alexander Young. J'ai identifié à date trois générations de la famille qui ont appartenues à la franc-maçonnerie (quatre qui ont appartenu à Albion), et quatre générations qui ont appartenues aux Forces Canadiennes, dans le service militaire actif dans des zones de conflit (Great War, WWII et guerre de la Corée). 
+Arbre généalogique approximative de la famille du Fr Charles Alexander Young. J'ai identifié à date trois générations de la famille qui ont appartenues à la franc-maçonnerie (quatre personnes ayant appartenu à Albion), et quatre générations qui ont appartenues aux Forces Canadiennes, dans le service militaire actif dans des zones de conflit (Northwest Rebellion, Boer War, Great War, WWII et guerre de la Corée). 
 
 Brother Alexander Young was a Major at the time he fell in the [Battle of Sactuary Wood](https://www.veterans.gc.ca/eng/remembrance/memorials/hill-62) (Hill 62) near Ypres; before, he had fought the Campaign in South Africa. 
 
 Brother Alfred Grincell Fellows was a most beloved Sergeant-Major of 8th Regt RCGA in Québec City, who passed away before the war. He was lamented by a large crowd in his inhumation.
 
-Brother William Grincell Fellows was a Major when he retired from the militia because of health issues.
+Brother William Grincell Fellows served in the Northwest Rebellion, and afterwards served as a Sergeant-Major in the Royal Canadian Regiment. He helped create the Railway Construction Regiment just before the Great War. He was a Major at the time, and could not be deployed with the Regiment because of health issues, what eventually led to his retirement from the Force. 
 
 His sister, Florence May Young was a Nursing Sister in the war, decorated with the Associate Royal Red Cross, Second Class. And his wife, who he met in Europe during the war, was also a Nursing Sister! 
 
