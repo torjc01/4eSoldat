@@ -1,0 +1,319 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Inspired from Jacobs Landscape Poster
+% LaTeX Template
+% Version 1.1 (14/06/14)
+%
+% Created by:
+% Computational Physics and Biophysics Group, Jacobs University
+% https://teamwork.jacobs-university.de:8443/confluence/display/CoPandBiG/LaTeX+Poster
+% 
+% Further modified by:
+% Nathaniel Johnston (nathaniel@njohnston.ca)
+%
+% This template has been downloaded from:
+% http://www.LaTeXTemplates.com
+%
+% License:
+% CC BY-NC-SA 3.0 (http://creativecommons.org/licenses/by-nc-sa/3.0/)
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% TODO: 
+% [OK] Resumer les sections Introduction et Conclusion (via Copilot) 
+% [OK] Faire le lien entre la porte et le sujet de la conférence - Transformation numérique - sécurité - potentiel d'être augmenté par l'IA.  
+% [OK] Checker le rajout de deux institutions pour le poster.
+% [OK] Corriger les legendes des images et tables 
+% [OK] Revoir les références 
+% [OK] Retrouver space pour l'image du de-vers (et déssiner les images) 
+% [OK] Déssiner l'arbre de données et rôles (avant et actuel)
+% [OK] Remplacer le titre AI et gouvernement par Perspectives et travaux futurs 
+% [OK] Déplacer la photo de l'équipe dans rémerciements... 
+% [OK] Déplacer l'image de l'app vers la 3e colonne - Image supprimée; substitué par l'image de cas d'utilisation, qui l'emploie.  
+% Remplacer les images du code par un pseudo-code ou algorithme simplifié ... code? Image?
+% Si possible, ajouter d'autres photos de la banque d'images de la porte (page d'attestation, application mobile, etc) pour être plus visuel que textuel. ? 
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%----------------------------------------------------------------------------------------
+%	PACKAGES AND OTHER DOCUMENT CONFIGURATIONS
+%----------------------------------------------------------------------------------------
+
+\documentclass[final]{beamer}
+
+\usepackage[scale=1.24]{beamerposter} % Use the beamerposter package for laying out the poster
+
+\usetheme{confposter} % Use the confposter theme supplied with this template
+
+\setbeamercolor{block title}{fg=ngreen,bg=white} % Colors of the block titles
+\setbeamercolor{block body}{fg=black,bg=white} % Colors of the body of blocks
+\setbeamercolor{block alerted title}{fg=white,bg=dblue!70} % Colors of the highlighted block titles
+\setbeamercolor{block alerted body}{fg=black,bg=dblue!10} % Colors of the body of highlighted blocks
+% Many more colors are available for use in beamerthemeconfposter.sty
+
+%-----------------------------------------------------------
+% Define the column widths and overall poster size
+% To set effective sepwid, onecolwid and twocolwid values, first choose how many columns you want and how much separation you want between columns
+% In this template, the separation width chosen is 0.024 of the paper width and a 4-column layout
+% onecolwid should therefore be (1-(# of columns+1)*sepwid)/# of columns e.g. (1-(4+1)*0.024)/4 = 0.22
+% Set twocolwid to be (2*onecolwid)+sepwid = 0.464
+% Set threecolwid to be (3*onecolwid)+2*sepwid = 0.708
+
+\newlength{\sepwid}
+\newlength{\onecolwid}
+\newlength{\twocolwid}
+\newlength{\threecolwid}
+\setlength{\paperwidth}{48in} % A0 width: 46.8in
+\setlength{\paperheight}{72in} % A0 height: 33.1in
+\setlength{\sepwid}{0.024\paperwidth} % Separation width (white space) between columns
+\setlength{\onecolwid}{0.22\paperwidth} % Width of one column
+\setlength{\twocolwid}{0.464\paperwidth} % Width of two columns
+\setlength{\threecolwid}{0.708\paperwidth} % Width of three columns
+\setlength{\topmargin}{-0.5in} % Reduce the top margin size
+%-----------------------------------------------------------
+
+\usepackage{graphicx}  % Required for including images
+
+\usepackage{booktabs} % Top and bottom rules for tables
+
+\usepackage{adjustbox}
+
+%----------------------------------------------------------------------------------------
+%	TITLE SECTION 
+%----------------------------------------------------------------------------------------
+
+\title{The 4th Soldier: The Story of Brother Lt-Col Charles Alexander Young} % Poster title
+
+
+
+% \title{\begin{adjustbox}{valign=t,flushleft}\includegraphics[width=1in]{LogoPort-E.png}\end{adjustbox} \\ Titre du document}
+
+\author{ Julio Cesar Torres dos Santos} % Author(s)
+
+\institute{Loge Albion, No.2 - Grand Loge du Québec} % Institution(s)
+
+%----------------------------------------------------------------------------------------
+
+\begin{document}
+ 
+\addtobeamertemplate{block end}{}{\vspace*{2ex}} % White space under blocks
+\addtobeamertemplate{block alerted end}{}{\vspace*{2ex}} % White space under highlighted (alert) blocks
+
+\setlength{\belowcaptionskip}{2ex} % White space under figures
+\setlength\belowdisplayshortskip{2ex} % White space under equations
+
+\begin{frame}[t] % The whole poster is enclosed in one beamer frame
+
+\begin{columns}[t] % The whole poster consists of three major columns, the second of which is split into two columns twice - the [t] option aligns each column's content to the top
+
+\begin{column}{\sepwid}\end{column} % Empty spacer column
+
+\begin{column}{\onecolwid} % The first column
+
+%----------------------------------------------------------------------------------------
+%	OBJECTIVES
+%----------------------------------------------------------------------------------------
+
+\begin{alertblock}{Objectives}
+
+Lt-Col Charles Alexander Young was a military and freemasonry member... 
+
+\end{alertblock}
+
+%----------------------------------------------------------------------------------------
+%	INTRODUCTION
+%----------------------------------------------------------------------------------------
+
+\begin{block}{Introduction}
+
+Introduction to the presentation...
+
+\end{block}
+
+
+%----------------------------------------------------------------------------------------
+%	MÉTHODOLOGIE - METHODS
+%----------------------------------------------------------------------------------------
+
+\begin{block}{Methodologie}
+
+This research was made doing... 
+
+\begin{figure}
+\includegraphics[width=1.0\linewidth]{Port-E_data01.png}
+\caption{ L'attestation vérifiable auto-déclarée d'identité numérique} 
+\end{figure}
+
+\end{block}
+
+\end{column} % End of the first column
+
+
+\begin{column}{\sepwid}\end{column} % Empty spacer column
+
+\begin{column}{\twocolwid} % Begin a column which is two columns wide (column 2)
+
+%----------------------------------------------------------------------------------------
+%	CAS D'UTILISATION - USE CASE
+%----------------------------------------------------------------------------------------
+
+\begin{alertblock}{Bro Lt-Col. Charles Alexander Young}
+
+Brother Charles Alexander ...
+
+\end{alertblock} 
+
+\begin{figure}
+\includegraphics[width=0.9\linewidth]{Port-E-LDAP.png}
+\caption{ Modèle de données d'accès}
+\end{figure}
+
+%----------------------------------------------------------------------------------------
+
+\begin{columns}[t,totalwidth=\twocolwid] % Split up the two columns wide column again
+
+\begin{column}{\onecolwid} % The first column within column 2 (column 2.1)
+
+
+%----------------------------------------------------------------------------------------
+%	RÉSULTATS - RESULTS
+%----------------------------------------------------------------------------------------
+
+\begin{block}{Résultats}
+
+Results of the research ...
+\end{block}
+
+
+
+%----------------------------------------------------------------------------------------
+
+\end{column} % End of column 2.1
+
+
+\begin{column}{\onecolwid} % The second column within column 2 (column 2.2)
+
+%----------------------------------------------------------------------------------------
+%	PERSPECTIVES ET TRAVAUX FUTURS - PROSPECTS AND FURTHER WORK 
+%----------------------------------------------------------------------------------------
+
+%\setbeamercolor{block alerted title}{fg=black,bg=norange} % Change the alert block title colors
+%\setbeamercolor{block alerted body}{fg=black,bg=white} % Change the alert block body colors
+
+\begin{alertblock}{Perspectives and further Work}
+
+Further works...
+
+\end{alertblock}
+
+%----------------------------------------------------------------------------------------
+
+\end{column} % End of column 2.2
+
+\end{columns} % End of the split of column 2
+
+\begin{column}{\twocolwid} % Begin a column which is two columns wide (column 2)
+
+%----------------------------------------------------------------------------------------
+%	IMAGES
+%----------------------------------------------------------------------------------------
+
+\begin{figure}
+\includegraphics[width=0.8\linewidth]{Collage_02.png}
+\caption{Certains visuels sur l'expérimentation}
+\end{figure}
+
+%----------------------------------------------------------------------------------------
+
+\end{column} % End of last two column
+
+\end{column} % End of the second column
+
+
+\begin{column}{\sepwid}\end{column} % Empty spacer column
+
+\begin{column}{\onecolwid} % The third column
+
+%----------------------------------------------------------------------------------------
+%	IMAGE ATTESTATION NUMÉRIQUE
+%----------------------------------------------------------------------------------------
+
+%\begin{figure}
+%\includegraphics[width=0.6\linewidth]{attestation_portefeuille.png}
+%\caption{Application mobile de portefeuille numérique}
+%\end{figure}
+
+%----------------------------------------------------------------------------------------
+%	CONCLUSION
+%----------------------------------------------------------------------------------------
+
+\begin{block}{Conclusion}
+
+Conclusions
+
+\end{block}
+
+%----------------------------------------------------------------------------------------
+%	INFORMATION ADDITIONELLE - ADDITIONAL INFORMATION
+%----------------------------------------------------------------------------------------
+
+\begin{block}{Additional Information}
+Additional Info...
+\end{block}
+
+%----------------------------------------------------------------------------------------
+%	RÉFÉRENCES - REFERENCES
+%----------------------------------------------------------------------------------------
+
+\begin{block}{Références}
+
+\nocite{*} % Insert publications even if they are not cited in the poster
+\small{\bibliographystyle{unsrt}
+\bibliography{RefBiblio}\vspace{0.75in}}
+
+\end{block}
+
+%----------------------------------------------------------------------------------------
+%	REMERCIEMENTS - ACKNOWLEDGEMENTS
+%----------------------------------------------------------------------------------------
+
+\setbeamercolor{block title}{fg=red,bg=white} % Change the block title color
+
+\begin{block}{Acknowledgements}
+
+\small{\rmfamily{We would like to thank Bro Charles Alexander's granddaughter, Jayne Thompson-Castagnette, who has kindly supplied informations, pictures, and her time for the research of her family's members.}} \\
+
+\end{block}
+
+%----------------------------------------------------------------------------------------
+%	COORDONNÉES - CONTACT INFORMATION
+%----------------------------------------------------------------------------------------
+
+\setbeamercolor{block alerted title}{fg=black,bg=norange} % Change the alert block title colors
+\setbeamercolor{block alerted body}{fg=black,bg=white} % Change the alert block body colors
+
+\begin{alertblock}{Coordonnées}
+
+\begin{itemize}
+% \item Web: \href{https://www.quebec.ca/gouvernement/ministere/cybersecurite-numerique}{https://www.quebec.ca/gouvernement/ministere/cybersecurite-numerique}
+% \item GitHub: \href{https://github.com/CQEN-QDCE}{https://github.com/CQEN-QDCE}
+\item Email: \href{mailto:cqen@mcn.gouv.qc.ca}{juliozohar@gmail.com}
+\end{itemize}
+
+\end{alertblock}
+
+% Ajouter de l'espace afin de repousser le logo du MCN complètement en bas du poster
+\vspace{15cm}
+
+\begin{center}
+\begin{tabular}{ccc}
+% \includegraphics[width=1.0\linewidth]{mcn.png}
+\end{tabular}
+\end{center}
+
+%----------------------------------------------------------------------------------------
+
+\end{column} % End of the third column
+
+\end{columns} % End of all the columns in the poster
+
+\end{frame} % End of the enclosing frame
+
+\end{document}
