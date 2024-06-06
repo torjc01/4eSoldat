@@ -218,14 +218,21 @@ https://www.canadiansoldiers.com/ranks/tableofranksandresponsibilities.htm
 
 ### Newspaper clippings
 
+The Quebec chronicle, 1914-03-26, Collections de BAnQ. Miniature Rifle Club. *SGM Young 2nd Place in Wm McPherson Cup* 
+https://numerique.banq.qc.ca/patrimoine/details/52327/3610392
+
+
 Quebec Chronicle, 8 juin 1916, Three Quebecers lose their lives.   
 https://numerique.banq.qc.ca/patrimoine/details/52327/3611081?docsearchtext=alexander
+
 
 La Patrie, 8 juin 1916, Un québécois tué, un autre blessé.    
 https://numerique.banq.qc.ca/patrimoine/details/52327/4318796?docsearchtext=Alexander
 
+
 Quebec Chronicle, 10 juin 1916, Albion demande brethren to be present at memorial service.       
 https://numerique.banq.qc.ca/patrimoine/details/52327/3611083?docsearchtext=alexander
+
 
 # Annexes 
 

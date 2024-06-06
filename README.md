@@ -342,10 +342,12 @@ OTHER TASKS
 
 # References 
 
-## Charles Alexander's profiles 
+## Official records
 
 Library and Archives Canada - Personnel records of the First World War  
 https://www.bac-lac.gc.ca/eng/discover/military-heritage/first-world-war/personnel-records/Pages/item.aspx?IdNumber=330882
+
+## Charles Alexander's profiles 
 
 Imperial War Museum - Lives of the First World War   
 https://livesofthefirstworldwar.iwm.org.uk/lifestory/5807192
@@ -364,14 +366,17 @@ https://www.hkvca.ca/Gallery/Individuals/Maj%20Charles%20Young/index.htm
 
 ## Links to web pages 
 
-54 Rifles in Jap's hands.    
-https://www.proquest.com/docview/2158853737/ED9F788F4219403CPQ/2?accountid=8612&sourcetype=Historical%20Newspapers
-
 Hong Kong Veterans Commemorative Association,   
 https://www.hkvca.ca/cforcedata/unitreport/index.php 
 
 HKVCA Vault. Search by reg'l number     
 https://drive.google.com/drive/folders/1u0605cQjINZtg6Xp33LPBr4FxOQ1MOcJ
+
+Hong Kong War Diary : a project that documents the 1941 defence of Hong Kong, the defenders, their families, and the fates of all until liberation.    
+http://hongkongwardiary.com/
+
+54 Rifles in Jap's hands.    
+https://www.proquest.com/docview/2158853737/ED9F788F4219403CPQ/2?accountid=8612&sourcetype=Historical%20Newspapers
 
 CANADIAN PARTICIPATION IN THE DEFENCE OF HONG KONG, DECEMBER, 1941   
 https://www.ibiblio.org/hyperwar/UN/Canada/CA/163-HongKong/index.html#pow
@@ -382,13 +387,37 @@ http://battleofhongkong.com/19.htm
 Report #163: Canadian participation in the defense of Hong Kong, Department of Defense    
 https://www.ibiblio.org/hyperwar/UN/Canada/CA/163-HongKong/index.html
 
-Charles Alexander as a businessman. Quebec Gazette, Cambrai Bowling Alleys Inc     
-Gazette officielle du Québec. Québec official gazette., 1957-03-30, Collections de BAnQ, p. 1128.      
-https://numerique.banq.qc.ca/patrimoine/details/52327/2358987
-
 
 Ancient toponymes in Québec City   
 https://www.ville.quebec.qc.ca/citoyens/patrimoine/toponymie/anciens_toponymes.aspx
+
+
+
+## Newspapers clippings
+
+The Quebec chronicle, 1910-11-30, Collections de BAnQ. Shooting on miniature ranges. *(Charles champion de la Challenge Cup. Son père, seconde place dans la catégorie seniors de la Wm McPherson Cup)*. 
+https://numerique.banq.qc.ca/patrimoine/details/52327/3609365
+
+
+L'action sociale, 1910-11-30, Collections de BAnQ. Le tir: un concours intéressant. *(Charles champion de la Challenge Cup. Son père, seconde place dans la catégorie seniors de la Wm McPherson Cup)*. 
+https://numerique.banq.qc.ca/patrimoine/details/52327/2783875
+
+
+Le soleil, 1910-11-30, Collections de BAnQ. Le tir: En miniature. *(Charles champion de la Challenge Cup. Son père, seconde place dans la catégorie seniors de la Wm McPherson Cup)*.
+https://numerique.banq.qc.ca/patrimoine/details/52327/3481922
+
+
+The Quebec chronicle, 1914-03-26, Collections de BAnQ. Good showing in basketball games. 
+https://numerique.banq.qc.ca/patrimoine/details/52327/3610392
+
+Le soleil, 1914-03-26, Collections de BAnQ. Basketball Trois bonnes jutes. 
+https://numerique.banq.qc.ca/patrimoine/details/52327/3479737?docsearchtext=young
+
+     
+Gazette officielle du Québec. Québec official gazette, 1957-03-30, Collections de BAnQ, p. 1128. Cambrai Bowling Alleys Inc *(Charles Alexander as a businessman)*.    
+https://numerique.banq.qc.ca/patrimoine/details/52327/2358987
+
+
 
 
 ## Bibliography
