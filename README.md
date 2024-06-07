@@ -425,6 +425,10 @@ https://numerique.banq.qc.ca/patrimoine/details/52327/2358987
 *Hong Kong Veteran’s Association of Canada.* **The Royal Rifles of Canada in Hong   
 Kong:1941-1945.** Progressive Publications, Sherbrooke, QC, 1980
 
+
+Historical Section Canadian Military Headquarters. **Canadian participation in the Defence of Honk Kong, December, 1941.** Department of National Defense, Ottawa, 1946. 
+https://publications.gc.ca/collections/collection_2016/mdn-dnd/D63-4-163-1946-eng.pdf
+
 ##  Acknowledgements / Remerciements  
 
 ### **Société de Généalogie de Québec**   
