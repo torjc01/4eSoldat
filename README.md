@@ -395,6 +395,9 @@ https://www.ville.quebec.qc.ca/citoyens/patrimoine/toponymie/anciens_toponymes.a
 
 ## Newspapers clippings
 
+The Quebec chronicle, 1907-08-03, Collections de BAnQ. Trap Shoot Prizes: Programme of Dominion Association in Toronto next week. 
+https://numerique.banq.qc.ca/patrimoine/details/52327/3608333
+
 The Quebec chronicle, 1910-11-30, Collections de BAnQ. Shooting on miniature ranges. *(Charles champion de la Challenge Cup. Son père, seconde place dans la catégorie seniors de la Wm McPherson Cup)*. 
 https://numerique.banq.qc.ca/patrimoine/details/52327/3609365
 
@@ -411,9 +414,11 @@ The Quebec chronicle, 1914-03-26, Collections de BAnQ. Good showing in basketbal
 https://numerique.banq.qc.ca/patrimoine/details/52327/3610392
 
 Le soleil, 1914-03-26, Collections de BAnQ. Basketball Trois bonnes jutes. 
-https://numerique.banq.qc.ca/patrimoine/details/52327/3479737?docsearchtext=young
+https://numerique.banq.qc.ca/patrimoine/details/52327/3479737
 
-     
+The Quebec chronicle, 1923-11-10, Collections de BAnQ. Dance at Drill Hall. 
+https://numerique.banq.qc.ca/patrimoine/details/52327/3613413
+
 Gazette officielle du Québec. Québec official gazette, 1957-03-30, Collections de BAnQ, p. 1128. Cambrai Bowling Alleys Inc *(Charles Alexander as a businessman)*.    
 https://numerique.banq.qc.ca/patrimoine/details/52327/2358987
 
