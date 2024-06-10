@@ -147,13 +147,16 @@ He served in CANADA, England and France with the 12th Battalion. 11th Brigade Ma
 
 |||
 |---|---|
-|Rank|Major (retired Lieutenant-Colonel)|
+|Rank|Major |
 |Force|Army - 1st Btn The Royal Rifles of Canada.|
 |Service Number (regimental)|X96|
 |POW|from Dec 30, 1941 to Sep 10, 1945|
 |Decorations|Military Cross, Volunteer's Officer Decoration|
+|Highest Rank|Lieutenant-Colonel|
 |||
 
+Commanding officer of the "A" Coy, 1st Btn RRC
+                           7th, 8th and 9th Platoons
 
 
 <img src="https://www.warmuseum.ca/ke/_resources/3124503/19700036-024.jpg" />
@@ -413,11 +416,14 @@ https://numerique.banq.qc.ca/patrimoine/details/52327/3481922
 The Quebec chronicle, 1914-03-26, Collections de BAnQ. Good showing in basketball games. 
 https://numerique.banq.qc.ca/patrimoine/details/52327/3610392
 
+
 Le soleil, 1914-03-26, Collections de BAnQ. Basketball Trois bonnes jutes. 
 https://numerique.banq.qc.ca/patrimoine/details/52327/3479737
 
+
 The Quebec chronicle, 1923-11-10, Collections de BAnQ. Dance at Drill Hall. 
 https://numerique.banq.qc.ca/patrimoine/details/52327/3613413
+
 
 Gazette officielle du Québec. Québec official gazette, 1957-03-30, Collections de BAnQ, p. 1128. Cambrai Bowling Alleys Inc *(Charles Alexander as a businessman)*.    
 https://numerique.banq.qc.ca/patrimoine/details/52327/2358987
