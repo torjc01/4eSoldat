@@ -135,7 +135,7 @@ He served in CANADA, England and France with the 12th Battalion. 11th Brigade Ma
 ---
 
  
-## Second World War
+## World War II
 
 <img src="./images/cayoung/MajCharlesYoungPortrait.jpg"  width="600"/>
 
@@ -145,10 +145,13 @@ He served in CANADA, England and France with the 12th Battalion. 11th Brigade Ma
 
 **Maj Charles Alexander Young, before embarking to the Hong Kong mission.<br/>Source: family photo.**
 
-|||
+|| World War II |
 |---|---|
-|Rank|Major |
 |Force|Army - 1st Btn The Royal Rifles of Canada.|
+|Rank|Major |
+|Appointment| Company Commander |
+|Company| "A" |
+|Platoon| Coy HQ|
 |Service Number (regimental)|X96|
 |POW|from Dec 30, 1941 to Sep 10, 1945|
 |Decorations|Military Cross, Volunteer's Officer Decoration|
@@ -158,6 +161,23 @@ He served in CANADA, England and France with the 12th Battalion. 11th Brigade Ma
 Commanding officer of the "A" Coy, 1st Btn RRC
                            7th, 8th and 9th Platoons
 
+### **Information retrieved from Bro Charles HKVCA's profile site**
+
+**Transportation** 
+
+- Travelled from the East Coast {{ probably from Québec City }} across Canada by CNR troop train
+- Reinforcements en route:
+  - Valcartier, Montreal, Ottawa, Armstrong (ON), Capreal(ON), Winnipeg, Melville(SK), Saskatoon, Edmonton, Jasper and Vancouver
+- Arrived at Vancouver on Oct 27th at 0800 hrs
+- All troops embarked on the ships AWATEA and PRINCE ROBERT.
+- C Coy of RRC was on PRINCE ROBERT, everyone else on the AWATEA.
+- Sailed from Vancouver Oct 27th
+- Arrived in HK on Nov 16th, after brief stops at Honolulu and Manila.
+- Equipment embarked on DON JOSE, which would never reach HK; diverted to Manila after the beginning of hostilities.
+- On arrival, troops were qurtered at Nanking barracks, Sham Shui Po Camp, in Kowloon.
+ 
+
+**Battle**
 
 <img src="https://www.warmuseum.ca/ke/_resources/3124503/19700036-024.jpg" />
 
