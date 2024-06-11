@@ -73,7 +73,7 @@ Sgt Charles Alexander served in the 8th Regiment "Royal Rifles" from 1908. With 
 June 3rd 1916 - Death of Alexander Young, in Ypres.
 
 **11th Canadian Infantry Brigade MG Coy**
-- Aug 12th 1916 - Dismbark at Le Havre   
+- Aug 12th 1916 - Disembark at Le Havre   
 - **[SOMME]**   
 - Oct 21st to Nov 11th 1916 - Battle of the Somme (Regina and Desire trenches)
 
@@ -81,14 +81,14 @@ June 3rd 1916 - Death of Alexander Young, in Ypres.
 - **[VIMY]**
 - Apr 9th to 11th 1916 - Battle of Vimy Ridge   
 - **[PASSCHENDAELE]**   
-- June 3rd 1917 - Action newar La Coulette
+- June 3rd 1917 - Action near La Coulette
 - June 27th 1917 - Action near Avion
 - Oct 27th 1917 - Action at Decline Copse 
 
 **4th CMGC**  
 - **[Canada 100 Days]**
 - Aug 9th to 11th 1918 - Battle of Amiens 
-- Sep 1st to 2nd 1918 - Battle of Drocout-Queant
+- Sep 1st to 2nd 1918 - Battle of Drocourt-Queant
 - Sep 27th to Oct 1st 1918 - Battle of Canal du Nord 
 - Nov 1st to 2nd 1918 - Battle of Valenciennes 
 
