@@ -83,7 +83,7 @@ Sgt Charles Alexander served in the 8th Regiment "Royal Rifles" from 1908. With 
 
 ### Timeline of the Great War 
 
-June 3rd 1916 - Death of Alexander Young, in Ypres.
+June 3rd 1916 - Death of Major [Alexander Young](./ayoung.md), in Ypres, Belgium.
 
 **11th Canadian Infantry Brigade MG Coy**
 - Aug 12th 1916 - Disembark at Le Havre   
