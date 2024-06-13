@@ -161,6 +161,19 @@ https://canadianheadstones.ca/wp/headstone-vendor/?wpda_search_column_idperson=1
 
 # References 
 
+## Bibliography
+
+[Boileau 2000] Boileau, G. (2000). **Louis Riel et les troubles du Nord-Ouest: De la Rivière-Rouge à Batoche.** Montreal: Méridien.
+
+[Fetherstonhaugh 1981] Fetherstonhaugh, R. C. (1981). **The Royal Canadian Regiment: 1883-1933.** Fredericton, NB: Centennial Print and Litho.
+
+[Lodge of Antiquity 1906] Lodge of Antiquity. **By-Laws of The Lodge of Antiquity Ancient Free and Accepted Masons: Being Number One on the Registry of the Most Worshipful The Grand Lodge of Ancient Free and Accepted Masons of Quebec** (Montreal:1906).
+
+[Nevinson 1963] Harry M Nevinson. **History of the Lodge of Antiquity.** (Montreal:1963). 
+
+
+## Web
+
 LAC - Personnel Records of the First World War
 
 https://www.bac-lac.gc.ca/eng/discover/military-heritage/first-world-war/personnel-records/Pages/item.aspx?IdNumber=381660
@@ -193,7 +206,7 @@ https://numerique.banq.qc.ca/patrimoine/details/52327/2959538?docsearchtext=grin
 
 [^1]:[Lodge of Antiquity 1906] Lodge of Antiquity. By-Laws of The Lodge of Antiquity Ancient Free and Accepted Masons: Being Number One on the Registry of the Most Worshipful The Grand Lodge of Ancient Free and Accepted Masons of Quebec (Montreal:1906), 17.
 
-[^2]:[Nevinson 1963] Harry M Nevinson. History of the Lodge of Antiquity (Momtreal:1963), 52, 120.
+[^2]:[Nevinson 1963] Harry M Nevinson. History of the Lodge of Antiquity (Montreal:1963), 52, 120.
 
 [^3]:[Summons] Albion's monthly summons for the communications (Quebec:2024)
 
