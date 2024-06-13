@@ -49,6 +49,17 @@ Unit: Canadian Army Medical Corps
 Rank: Nursing Sister (Lieutenant)	  
 Service File:  [B3029-S033](https://central.bac-lac.gc.ca/.item/?op=pdf&app=CEF&id=B3029-S033)     
 
+
+
+
+# References 
+
+## Bibliography
+
+[Toman 2016] Toman, Cynthia. (2016). **Sister Soldiers of the Great War: The Nurses of the Canadian Army Medical Corps.** Vancouver: UBC Press.
+
+# Web 
+
 IWM: https://livesofthefirstworldwar.iwm.org.uk/lifestory/5857947    
 Great War Project: https://canadiangreatwarproject.com/person.php?pid=87189
 
