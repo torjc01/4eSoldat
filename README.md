@@ -361,10 +361,30 @@ OTHER TASKS
 
 # References 
 
+
+## Bibliography
+
+[Castonguay 1987a] Castonguay, J. (1987a). **Les Voltigeurs de Québec: Premier régiment canadien-français, Vol. 1.** Quebec: Voltigeurs de Québec.
+
+[Castonguay 1987b] Castonguay, J. (1987b). **Les Voltigeurs de Québec: Premier régiment canadien-français, Vol. 2.** Quebec: Voltigeurs de Québec.
+
+[Grafton 1938] Lt Col C. S. Grafton (1938). **The Canadian ’Emma Gees’: A History of the Canadian Machine Gun Corps.** Uckfield, UK: The Naval and Military Press.
+
+[HKVAC 1980] Hong Kong Veteran’s Association of Canada. **The Royal Rifles of Canada in Hong Kong:1941-1945.** Progressive Publications, Sherbrooke, QC, 1980
+
+[HSCMH 1941] Historical Section Canadian Military Headquarters. **Canadian participation in the Defence of Honk Kong, December, 1941.** Department of National Defense, Ottawa, 1946. 
+https://publications.gc.ca/collections/collection_2016/mdn-dnd/D63-4-163-1946-eng.pdf
+
+[Jünger 1929] Jünger, E. (1929). **In Stahlgewittern: Aus dem Tagesbuch eines Stoßtruppführers.** Berlin: E S Mittler Sohn.
+
+[Penny 1962] Penny, A. G. (1962). **The Royal Rifles of Canada ’Able and Willing’ since 1862: A Short History.** Quebec City: Royal Rifles of Canada.
+
+
 ## Official records
 
 Library and Archives Canada - Personnel records of the First World War  
 https://www.bac-lac.gc.ca/eng/discover/military-heritage/first-world-war/personnel-records/Pages/item.aspx?IdNumber=330882
+
 
 ## Charles Alexander's profiles 
 
@@ -382,6 +402,7 @@ https://www.hkvca.ca/cforcedata/indivreport/indivdetailed.php?regtno=X96
 
 War Diary     
 https://www.hkvca.ca/Gallery/Individuals/Maj%20Charles%20Young/index.htm
+
 
 ## Links to web pages 
 
@@ -409,7 +430,6 @@ https://www.ibiblio.org/hyperwar/UN/Canada/CA/163-HongKong/index.html
 
 Ancient toponymes in Québec City   
 https://www.ville.quebec.qc.ca/citoyens/patrimoine/toponymie/anciens_toponymes.aspx
-
 
 
 ## Newspapers clippings
@@ -444,17 +464,6 @@ https://numerique.banq.qc.ca/patrimoine/details/52327/3613413
 Gazette officielle du Québec. Québec official gazette, 1957-03-30, Collections de BAnQ, p. 1128. Cambrai Bowling Alleys Inc *(Charles Alexander as a businessman)*.    
 https://numerique.banq.qc.ca/patrimoine/details/52327/2358987
 
-
-
-
-## Bibliography
-
-*Hong Kong Veteran’s Association of Canada.* **The Royal Rifles of Canada in Hong   
-Kong:1941-1945.** Progressive Publications, Sherbrooke, QC, 1980
-
-
-Historical Section Canadian Military Headquarters. **Canadian participation in the Defence of Honk Kong, December, 1941.** Department of National Defense, Ottawa, 1946. 
-https://publications.gc.ca/collections/collection_2016/mdn-dnd/D63-4-163-1946-eng.pdf
 
 ##  Acknowledgements / Remerciements  
 
