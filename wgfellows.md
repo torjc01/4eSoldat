@@ -6,7 +6,7 @@
 
 <div>
     <a target="_blank" href="https://franc-maconnerie.ca">
-      <img src="./images/logo.png" alt="Julio Torres Freemasonry" width="300"/>
+      <img src="./images/common/logo.png" alt="Julio Torres Freemasonry" width="300"/>
     </a>
 </div>
 
@@ -14,7 +14,7 @@
 
 <!-- FIN ENTETE -->
 
-### **Maj TVF William Grincell Fellows** 
+# **Maj TVF William Grincell Fellows** 
 
 ||CIVIL DATA|
 |---|---|
@@ -31,31 +31,42 @@
 |Age at death|82 years|
 |Burial site|Les Jardins Commémoratifs Lakeview Memorial Gardens (Pointe-Claire), Montréal, Quebec|
 
-<img src="./images/genTreeFellows.jpg" width="1200"/>
 
-Wife:  **Alice Maud Emily Higgins**   
-b 1871 Gosport, Hampshire, England (1871 England Census)[^6]    
-d March 12th 1936, Montréal, QC [^7]   
-Daughter of Henry Higgins, Albion's Worshipful Master (1898-1900)[^3]  
 
-# Northwest Rebellion 1885
+## **Family:**
+
+- **Wife: Alice Maud Emily Higgins**   
+      b 1871 Gosport, Hampshire, England (1871 England Census)[^6]    
+      d March 12th 1936, Montréal, QC (65 y-o) [^7]   
+      Daughter of Henry Higgins, Albion's Worshipful Master (1898-1900)[^3]  
+- **Daughter: Doris Adelade Fellows** b Jan 14th 1907 bp Jan 19th 1907
+
+<img src="./images/common/genTreeFellows.jpg" width="1200"/>
+
+
+## Military carreer 
+
+<div align="center">
+      <img src="./images/common/RCRbadge.png" />
+</div>
+
+In ranks 19yrs 8 mths   
+WO 3 yrs 8 mths 16 dys   
+Lt (DO) RCA - Dec 2nd 1907   
+Capt RCA - Dec 2nd 1912   
+Source: *Canadiana Govt Records*
+
+- Royal Canadian Regiment, Toronto
+- B Battery Québec, RCA Royal Canadian Artillery, Québec  
+
+
+### Northwest Rebellion 1885
 
 - Relief of Battleford (24th April);
 - Action at Cut Knife Hill (2nd May);
 - Operations against Chief Big Bear (June-July).
 
 Awarded with Medal with clasp for his actions on the field. 
-
-# Military carreer 
-
-B Battery Québec, RCA Royal Canadian Artillery  
-Wife: Alice Maud Emily Higgins d Mar 12th 1936 (65 y-o)  
-Daughter: Doris Adelade Fellows b Jan 14th 1907 bp Jan 19th 1907  
-
-In ranks 19yrs 8 mths   
-WO 3 yrs 8 mths 16 dys   
-Lt (DO) RCA - Dec 2nd 1907   
-Capt RCA - Dec 2nd 1912   
 
 
       APPOINTMENTS, PROMOTIONS AND RETIREMENTS.    
@@ -96,32 +107,7 @@ Capt RCA - Dec 2nd 1912
 
 **Source: The Canada Gazette. Jan 4th, 1908. Promotions William Grincell Fellows**
 
-
-In ranks 19 yrs 8 mths
-
-WO 3 yrs 8 mths 16 dys 
-
-Lt (DO) RCA 2 Dec 1907
-
-Capt  RCA 2 Dec 1912
-
-*Canadiana Govt Records*
-
-# Masonic Life
-
-In the Masonic Order he has had the distinction of being Past-Master of the two oldest lodges in Canada, Antiquity No.1 of Montreal (Lodge of Antiquity 1906, p. 17)[^1] [Nevinson 1963, pp. 52, 120][^2] and Albion No.2 (Summons)[^3], of Quebec, both of which are under the Grand Registry of Quebec. In addition he has been honoured by his brethren in the Order by being elected to the important position of District Grand Master of Quebec and Three Rivers.
-
-- Worshipful Master of The Lodge of Antiquity, #1, Montréal, Québec, year 1899. [^1], [^2]
-
-- Worshipful Master of Albion Lodge #2, Québec, Québec, year 1908. [^3]
-
-We can find him listed as Senior Warden of Albion Lodge on the "Annuaires de la ville de Québec", p.75.[^4]
-
-<img src="./images/pastMasters.png" />
-
-**Source: Albion Roll Call**[^3]
-
-# News about depart from the military 
+### News about depart from the military 
 
 **DEPARTURE OF A POPULAR OFFICER**
 
@@ -143,6 +129,24 @@ The members of Major Fellows family have long been connected with the military. 
 The many military and civilian friends of Major Fellows will wish him a long life and good health to enjoy a well-earned pension, and will also extend to Mrs. Fellows and family every happiness and good fortune in Montreal, where they have now taken up their residence.
 
 **Source: The Quebec chronicle, 1918-09-27, Collections de BAnQ.**[^5]
+
+
+
+## Masonic Life
+
+In the Masonic Order he has had the distinction of being Past-Master of the two oldest lodges in Canada, Antiquity No.1 of Montreal (Lodge of Antiquity 1906, p. 17)[^1] [Nevinson 1963, pp. 52, 120][^2] and Albion No.2 (Summons)[^3], of Quebec, both of which are under the Grand Registry of Quebec. In addition he has been honoured by his brethren in the Order by being elected to the important position of District Grand Master of Quebec and Three Rivers.
+
+- Worshipful Master of The Lodge of Antiquity, #1, Montréal, Québec, year 1899. [^1], [^2]
+
+- Worshipful Master of Albion Lodge #2, Québec, Québec, year 1908. [^3]
+
+We can find him listed as Senior Warden of Albion Lodge on the "Annuaires de la ville de Québec", p.75.[^4]
+
+<img src="./images/common/pastMasters.png" />
+
+**Source: Albion Roll Call**[^3]
+
+
 
 
 # Obituary

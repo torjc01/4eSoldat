@@ -6,7 +6,7 @@
 
 <div>
     <a target="_blank" href="https://franc-maconnerie.ca">
-      <img src="./images/logo.png" alt="Julio Torres Freemasonry" width="300"/>
+      <img src="./images/common/logo.png" alt="Julio Torres Freemasonry" width="300"/>
     </a>
 </div>
 
@@ -147,14 +147,21 @@ He served in CANADA, England and France with the 12th Battalion. 11th Brigade Ma
 
  
 ## World War II
-
-<img src="./images/cayoung/MajCharlesYoungPortrait.jpg"  width="600"/>
-
-**Maj Charles Alexander Young, 1st Btn "A" Coy, The Royal Rifles of Canada, C Force** 
+<div align="center">
+  <img src="./images/common/RRCbadge.png" />
+  <p></p>
+</div>
 
 <img src="./images/cayoung/MajorCharlesYoungHK.jpg" width="600" />
 
-**Maj Charles Alexander Young, before embarking to the Hong Kong mission.<br/>Source: family photo.**
+**Maj Charles Alexander Young, before embarking to the Hong Kong mission.<br />Source: family photo.**
+
+<img src="./images/cayoung/MajCharlesYoungPortrait.jpg"  width="600"/>
+
+**Maj Charles Alexander Young, 1st Btn "A" Coy, The Royal Rifles of Canada, C Force. <br />Source: HKVCA.**
+
+
+
 
 || World War II |
 |---|---|
@@ -267,7 +274,7 @@ Brother William Grincell Fellows served in the Northwest Rebellion, and afterwar
 
 His sister, Florence May Young was a Nursing Sister in the war, decorated with the Associate Royal Red Cross, Second Class. And his wife, who he met in Europe during the war, was also a Nursing Sister! 
 
-<img src="./images/genTree.png" usemap="#image_map">
+<img src="./images/common/genTree.png" usemap="#image_map">
 <map name="image_map">
   <area alt="Lt-Col Charles Alexander Young" title="Lt-Col Charles Alexander Young" href="./4emeSoldat.md" coords="356,285 356,341 444,342 444,323 473,322 474,284 473,282 473,285 473,285 473,285 " shape="polygon">
   <area alt="Major Alexander Young" title="Major Alexander Young" href="./majAYoung.md" coords="275,143,395,204" shape="rect">
@@ -297,7 +304,7 @@ Right Worshipful Brother William Grincell Fellows had the distinction of being t
 Right Worshipful Brother Alexander Young was the Master of the Lodge for the year of 1913, shortly before deploying to the European theatre on First World War, where he would pay the ultimate sacrifice for his country.
 
 
-<img src="./images/pastMasters.png" />
+<img src="./images/common/pastMasters.png" />
 
 **Past-Masters de la Loge Albion, débuts 20 siécle. *Source: convocations de la Loge***
 
@@ -455,7 +462,7 @@ https://publications.gc.ca/collections/collection_2016/mdn-dnd/D63-4-163-1946-en
 
 https://www.sgq.qc.ca/
 
-<img src="./images/logoSGQ.png">
+<img src="./images/common/logoSGQ.png">
 
 The courses on genealogical research offered by the Société de Généalogie du Québec allowed me to pursue the research of a richer set of documents that added to the density of sorces I had available to draw a picture of Brother Charles Alexander's life. 
 

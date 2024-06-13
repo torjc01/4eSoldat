@@ -6,7 +6,7 @@
 
 <div>
     <a target="_blank" href="https://franc-maconnerie.ca">
-      <img src="./images/logo.png" alt="Julio Torres Freemasonry" width="300"/>
+      <img src="./images/common/logo.png" alt="Julio Torres Freemasonry" width="300"/>
     </a>
 </div>
 
@@ -152,7 +152,7 @@ La Patrie, 8 juin 1916, jeudi
 
 Member of Albion Lodge, #2. Right Worshipful Brother Alexander Young was the Worshipful Master of the Lodge for the year of 1913, shortly before deploying to the European theatre on First World War, where he would pay the ultimate sacrifice for his country.
 
-<img src="./images/pastMasters.png"/>
+<img src="./images/common/pastMasters.png"/>
 
 ## Death and Obituaries
 

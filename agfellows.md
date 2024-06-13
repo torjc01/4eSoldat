@@ -6,7 +6,7 @@
 
 <div>
     <a target="_blank" href="https://franc-maconnerie.ca">
-      <img src="./images/logo.png" alt="Julio Torres Freemasonry" width="300"/>
+      <img src="./images/common/logo.png" alt="Julio Torres Freemasonry" width="300"/>
     </a>
 </div>
 
@@ -16,7 +16,7 @@
 
 ### **SGM Fr Alfred Grincell Fellows**
 
-<img src="./images/cayoung/Alfred Grincell Fellows.jpeg" />
+<img src="./images/agfellowes/AlfredGrincellFellows.jpeg" />
 
 ||CIVIL DATA|
 |---|---|
