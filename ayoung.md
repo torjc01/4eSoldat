@@ -154,7 +154,12 @@ Member of Albion Lodge, #2. Right Worshipful Brother Alexander Young was the Wor
 
 <img src="./images/pastMasters.png"/>
 
-## Obituaries
+## Death and Obituaries
+
+<img src="images/ayoung/52ndWDJuly1916p2.jpg" />
+<img src="images/ayoung/52ndWDJuly1916p2.jpg" />
+
+**52nd Btl War Diaries that report on Maj Young's death. Souce: Library and Archives Canada**
 
 <img src="./images/ayoung/QcChronicle19120610-01.png" />
 <img src="./images/ayoung/QcChronicle19120610-02.png" />
@@ -193,6 +198,17 @@ However, in Mount Hermon Cemetery, Quebec City, there is a memorial to Major You
 **Memorial card commemorating Maj Alexander Young's death, sent by the Canadian government to the family. Source: family photo.**
 
 ## References 
+
+### Bibliography
+
+[Fetherstonhaugh 1981] Fetherstonhaugh, R. C. (1981). **The Royal Canadian Regiment: 1883-1933.** Fredericton, NB: Centennial Print and Litho.
+
+[Miller 1993] Miller, C. (1993). **Painting the Map Red: Canada and the South African War 1899-1902.** Montreal: Canadian War Museum.
+
+[Yorke 2014] Yorke, E. (2014). **Mafeking: 1899-1900.** Gloucestshire, UK: The History Press.
+
+
+### Web
 
 Boer Service File   
 https://heritage.canadiana.ca/view/oocihm.lac_reel_t13440/5942  
