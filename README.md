@@ -158,7 +158,7 @@ He served in CANADA, England and France with the 12th Battalion. 11th Brigade Ma
 
 <img src="./images/cayoung/MajCharlesYoungPortrait.jpg"  width="600"/>
 
-**Maj Charles Alexander Young, 1st Btn "A" Coy, The Royal Rifles of Canada, C Force. <br />Source: HKVCA.**
+**Maj Charles Alexander Young, 1st Btn "A" Coy, The Royal Rifles of Canada, C Force. <br />Source: Copied with permission from the HKVCA Photo Gallery. Copyright remains with the original owner.**
 
 
 
@@ -220,7 +220,7 @@ Commanding officer of the "A" Coy, 1st Btn RRC
 
 <img src="https://www.hkvca.ca/cforcedata/ext_files/comments/images/X96.jpg" />
 
-**In the fourth row from the bottom, 3rd from the left is X96 Major Charles A. Young of the Royal Rifles of Canada. <br/>Apparently this photo was taken just after liberation. <br/>Source: Hong Kong Veterans Association.**
+**In the fourth row from the bottom, 3rd from the left is X96 Major Charles A. Young of the Royal Rifles of Canada. <br/>Apparently this photo was taken just after liberation. <br/>Source: Copied with permission from the HKVCA Photo Gallery. Copyright remains with the original owner.**
 
 ### Obituaries 
 
@@ -312,21 +312,21 @@ Right Worshipful Brother Alexander Young was the Master of the Lodge for the yea
 
 <img src="./images/common/pastMasters.png" />
 
-**Past-Masters de la Loge Albion, débuts 20 siécle. *Source: convocations de la Loge***
+**Past-Masters de la Loge Albion, débuts 20 siécle. Source: convocations de la Loge**
 
 # Memorabilia
 
 <img src="./images/cayoung/MedalsCharlesAYoung.jpeg" />
 
-**Médailles du Lt-Col Charles A Young. Source: photo familliale**
+**Médailles du Lt-Col Charles A Young. Source: family photo**
 
 <img src="./images/cayoung/Coronation.jpeg" />
 
-**Souvenirs de la présence à la Coronation de la Reine Elizabeth II, à l'Abbaie de Westminster, le 2 juin 1953. Source: photo familliale**
+**Souvenirs de la présence à la Coronation de la Reine Elizabeth II, à l'Abbaie de Westminster, le 2 juin 1953. Source: family photo**
 
 <img src="./images/cayoung/platAlbion.jpg" />
 
-**Plat commemoratif des 175 ans de la loge Albion donné au Fr Charles Alexander Young. Source: photo familliale**
+**Plat commemoratif des 175 ans de la loge Albion donné au Fr Charles Alexander Young. Source: family photo**
 
 ## Brother Charles' War Diary 
 
