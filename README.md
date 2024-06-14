@@ -382,7 +382,10 @@ Canada’s Military in World War One.** Calgary, AB: Bunker to Bunker Books.
 
 [Penny 1962] Penny, A. G. (1962). **The Royal Rifles of Canada ’Able and Willing’ since 1862: A Short History.** Quebec City: Royal Rifles of Canada.
 
-[Wentzell 2021] Wentzell, Tyler. "Brigadier J.K. Lawson's Diary: October to December 1941".  Canadian Military History Journal, 20, no. 2 (2021): 3-4.
+[Pöhlmann 2017] Pöhlmann, Markus. "A Portrait of the Soldier as a Young Man: Ernst Jünger at
+Fresnoy, April 1917". Journal of Military and Strategic Studies, 18, no. 2 (2017): 105-117. https://jmss.org/article/download/58297/43850/158926
+
+[Wentzell 2021] Wentzell, Tyler. "Brigadier J.K. Lawson's Diary: October to December 1941".  Canadian Military History Journal, 20, no. 2 (2021): 3-4. https://scholars.wlu.ca/cgi/viewcontent.cgi?article=2070&context=cmh
 
 
 ## Official records
