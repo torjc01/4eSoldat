@@ -170,7 +170,7 @@ He served in CANADA, England and France with the 12th Battalion. 11th Brigade Ma
 |Appointment| Company Commander |
 |Company| "A" |
 |Platoon| Coy HQ|
-|Service Number (regimental)|X96|
+|Service Number (regimental)|X96 (reference number valid only for HKVCA's site)|
 |POW|from Dec 30, 1941 to Sep 10, 1945|
 |Decorations|Military Cross, Volunteer's Officer Decoration|
 |Highest Rank|Lieutenant-Colonel|
