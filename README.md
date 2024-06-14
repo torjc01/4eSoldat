@@ -382,6 +382,8 @@ Canada’s Military in World War One.** Calgary, AB: Bunker to Bunker Books.
 
 [Penny 1962] Penny, A. G. (1962). **The Royal Rifles of Canada ’Able and Willing’ since 1862: A Short History.** Quebec City: Royal Rifles of Canada.
 
+[Wentzell 2021] Wentzell, Tyler. "Brigadier J.K. Lawson's Diary: October to December 1941".  Canadian Military History Journal, 20, no. 2 (2021): 3-4.
+
 
 ## Official records
 
