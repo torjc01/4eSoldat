@@ -377,6 +377,9 @@ https://publications.gc.ca/collections/collection_2016/mdn-dnd/D63-4-163-1946-en
 
 [Jünger 1929] Jünger, E. (1929). **In Stahlgewittern: Aus dem Tagesbuch eines Stoßtruppführers.** Berlin: E S Mittler Sohn.
 
+[Love 1999] Love, D. W. (1999). **A Call to Arms: The Organization and Administration of
+Canada’s Military in World War One.** Calgary, AB: Bunker to Bunker Books.
+
 [Penny 1962] Penny, A. G. (1962). **The Royal Rifles of Canada ’Able and Willing’ since 1862: A Short History.** Quebec City: Royal Rifles of Canada.
 
 
