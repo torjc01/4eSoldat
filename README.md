@@ -179,6 +179,10 @@ He served in CANADA, England and France with the 12th Battalion. 11th Brigade Ma
 Commanding officer of the "A" Coy, 1st Btn RRC
                            7th, 8th and 9th Platoons
 
+### The demand for troops 
+
+*The British Government formally requested that Canada provides two infantry battalions for Hong Kong on 19 September 1941. Lawson's Directorate of Military training and Staff Duties had evaluated the battalions under consideration - the Royal Rifles of Canada (RRC) and the Winnipeg Grenadiers - as "not suitable" for deployment due to their long service in garrison duties in the West Indies and in Newfoundland and their requirement for further training. But the battalion's experience in garrison duties arguably made them well suited for what was expected to be much the same in Hong Kong. Hostilities with Japan were not yet considered imminent."* (Wentzell 2021, p. 3-4)
+
 ### **Information retrieved from Bro Charles HKVCA's profile site**
 
 **Transportation** 
