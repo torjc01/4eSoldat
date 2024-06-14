@@ -430,15 +430,19 @@ http://battleofhongkong.com/19.htm
 Report #163: Canadian participation in the defense of Hong Kong, Department of Defense    
 https://www.ibiblio.org/hyperwar/UN/Canada/CA/163-HongKong/index.html
 
-
 Ancient toponymes in Québec City   
 https://www.ville.quebec.qc.ca/citoyens/patrimoine/toponymie/anciens_toponymes.aspx
+
+Canadian Military History Journal - 
+For its fall 2021 issue, Canadian Military History has published a special issue to commemorate the Battle of Hong Kong’s eightyth anniversary. This issue explores various aspects of the battle, its aftermath and its memory.    
+https://scholars.wlu.ca/cmh/vol30/iss2/
 
 
 ## Newspapers clippings
 
 The Quebec chronicle, 1907-08-03, Collections de BAnQ. Trap Shoot Prizes: Programme of Dominion Association in Toronto next week. 
 https://numerique.banq.qc.ca/patrimoine/details/52327/3608333
+
 
 The Quebec chronicle, 1910-11-30, Collections de BAnQ. Shooting on miniature ranges. *(Charles champion de la Challenge Cup. Son père, seconde place dans la catégorie seniors de la Wm McPherson Cup)*. 
 https://numerique.banq.qc.ca/patrimoine/details/52327/3609365
