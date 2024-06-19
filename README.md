@@ -153,8 +153,12 @@ He served in CANADA, England and France with the 12th Battalion. 11th Brigade Ma
 </div>
 
 <img src="./images/cayoung/MajorCharlesYoungHK.jpg" width="600" />
+ 
+**Maj Charles Alexander Young, on garrison duty at Newfoundland, before the Hong Kong mission. <br /> Source: family photo.**
 
-**Maj Charles Alexander Young, before embarking to the Hong Kong mission.<br />Source: family photo.**
+<img src="./images/cayoung/paradingRRC.JPG" width="600" />
+
+**Maj Charles Alexander Young, parading the 1st Btn "A" Coy for inspection in Quebec City, before embarking to the Hong Kong mission.<br />Source: family photo.**
 
 <img src="./images/cayoung/MajCharlesYoungPortrait.jpg"  width="600"/>
 
