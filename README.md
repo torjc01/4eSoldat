@@ -200,12 +200,17 @@ Commanding officer of the "A" Coy, 1st Btn RRC
 - Equipment embarked on DON JOSE, which would never reach HK; diverted to Manila after the beginning of hostilities.
 - On arrival, troops were qurtered at Nanking barracks, Sham Shui Po Camp, in Kowloon.
  
+<img src="./images/cayoung/awatea.jpg" >
 
-**Battle**
+**The HTS Awatea. Souce: [Cruise Line History](https://www.cruiselinehistory.com/the-tss-awatea-union-steamship-company-overtakes-the-ss-mariposa-matson-lines-august-1938/)**
+
+
+### **Battle**
 
 
 
-**Liste des camps de prisonniers et les dates d'internement et de sortie:** 
+<b>Liste des camps de prisonniers et les dates d'internement et de sortie</b> 
+
 
 |Camp ID 	|Camp Name 	|Location 	|Company 	|Type of Work 	|Reference 	|Arrival Date 	|Departure Date|
 |---|----|----|---|---|---|---|---|
@@ -218,9 +223,21 @@ Commanding officer of the "A" Coy, 1st Btn RRC
 
 **Photo of a typical POW barrack in Honk Kong, where the canadian troops were kept. <br/>Source: family photo.**
 
+<img src="./images/cayoung/POWreleaseYokohama.jpg" width="600" />
+
+**POW released from Yokohama camp. <br />Source: Copied with permission from the HKVCA Photo Gallery. Copyright remains with the original owner.**
+
+<img src="./images/cayoung/CdrRitchea.JPG" width="600" />
+
+**Commander Ritchea interviewing liberated soldiers.  <br />Source: Copied with permission from the HKVCA Photo Gallery. Copyright remains with the original owner.**
+
 <img src="https://www.hkvca.ca/cforcedata/ext_files/comments/images/X96.jpg" />
 
 **In the fourth row from the bottom, 3rd from the left is X96 Major Charles A. Young of the Royal Rifles of Canada. <br/>Apparently this photo was taken just after liberation. <br/>Source: Copied with permission from the HKVCA Photo Gallery. Copyright remains with the original owner.**
+
+<img src="./images/cayoung/QuebecCityArrival.jpg" width="600" />
+
+**RRC Officers arrival at Quebec City. Maj Charles Alexander on the top-right photo, with his daughter Florence May Young. <br /> Source: Copied with permission from the HKVCA Photo Gallery. Copyright remains with the original owner.**
 
 ### Obituaries 
 
