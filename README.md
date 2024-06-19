@@ -272,7 +272,7 @@ At the time of his sudden death, he was visiting his daughter, Mrs Harry Thompso
 
 His father, the late Maj Alexander Young, was also a soldier and commanded the 52nd Battalion in the First World War. 
 
-Headstone 
+**Gravestone** 
 
 His final resting place is in Québec City Cemetery Mount Hermon, in a quiet part of city, in the most peaceful place inside the cemetery, near its centre, where the silence and peace reign absolute for his eternal rest. 
 
