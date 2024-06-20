@@ -280,7 +280,7 @@ His father, the late Maj Alexander Young, was also a soldier and commanded the 5
 
 **Gravestone** 
 
-His final resting place is in Québec City Cemetery Mount Hermon, in a quiet part of city, in the most peaceful place inside the cemetery, near its centre, where the silence and peace reign absolute for his eternal rest. 
+His final resting place is in Québec City Cemetery Mount Hermon, in a quiet part of the city, in the most peaceful place inside the cemetery, near its centre, where the silence and peace reign absolute for his eternal rest. 
 
 <img src="./images/cayoung/Headstone.JPG" width="800">
 
