@@ -57,7 +57,7 @@ Brother Charles was captured at the end of the battle, on Dec 28th.     He was s
 
 <img src="./images/cayoung/LtCharlesYoungPortrait.jpg" /> 
 
-**Lt Charles Alexander Young, 12th Battalion. Source: family photo.**
+**Sgt Charles Alexander Young, 12th Battalion. Source: family photo.**
 
 |||
 |---|---|
