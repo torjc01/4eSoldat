@@ -57,7 +57,7 @@ Brother Charles was captured at the end of the battle, on Dec 28th.     He was s
 
 <img src="./images/cayoung/LtCharlesYoungPortrait.jpg" /> 
 
-**Lt Charles Alexander Young, 12th Battalion. Source: family photo.**
+**Sgt Charles Alexander Young, 12th Battalion. Source: family photo.**
 
 |||
 |---|---|
@@ -153,8 +153,12 @@ He served in CANADA, England and France with the 12th Battalion. 11th Brigade Ma
 </div>
 
 <img src="./images/cayoung/MajorCharlesYoungHK.jpg" width="600" />
+ 
+**Maj Charles Alexander Young, on garrison duty at Newfoundland, before the Hong Kong mission. <br /> Source: family photo.**
 
-**Maj Charles Alexander Young, before embarking to the Hong Kong mission.<br />Source: family photo.**
+<img src="./images/cayoung/paradingRRC.JPG" width="600" />
+
+**Maj Charles Alexander Young, parading the 1st Btn "A" Coy for inspection in Quebec City, before embarking to the Hong Kong mission.<br />Source: family photo.**
 
 <img src="./images/cayoung/MajCharlesYoungPortrait.jpg"  width="600"/>
 
@@ -183,8 +187,6 @@ Commanding officer of the "A" Coy, 1st Btn RRC
 
 *The British Government formally requested that Canada provides two infantry battalions for Hong Kong on 19 September 1941. Lawson's Directorate of Military training and Staff Duties had evaluated the battalions under consideration - the Royal Rifles of Canada (RRC) and the Winnipeg Grenadiers - as "not suitable" for deployment due to their long service in garrison duties in the West Indies and in Newfoundland and their requirement for further training. But the battalion's experience in garrison duties arguably made them well suited for what was expected to be much the same in Hong Kong. Hostilities with Japan were not yet considered imminent."* (Wentzell 2021, p. 3-4)
 
-<img src="https://www.warmuseum.ca/ke/_resources/3124503/19700036-024.jpg" />
-
 ### **Information retrieved from Bro Charles HKVCA's profile site**
 
 **Transportation** 
@@ -208,6 +210,10 @@ Commanding officer of the "A" Coy, 1st Btn RRC
 ### **Battle**
 
 
+
+<img src="https://www.warmuseum.ca/ke/_resources/3124503/19700036-024.jpg" />
+
+**After the destruction of the regiment on the aftermath of the Battle of Hong Kong, the Royal Rifles of Canada atarted a recruitment campaign to rebuild the regiment. <br /> Source: Canada War Museum.**
 
 <b>Liste des camps de prisonniers et les dates d'internement et de sortie</b> 
 
