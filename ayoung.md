@@ -206,6 +206,8 @@ However, in Mount Hermon Cemetery, Quebec City, there is a memorial to Major You
 
 [Miller 1993] Miller, C. (1993). **Painting the Map Red: Canada and the South African War 1899-1902.** Montreal: Canadian War Museum.
 
+[Roussin 2024] Roussin, Éric Légaré. "Le monument de la guerre des Boers". Québecensia, Bulletin de la Sociétét Historique de Québec 42, no. 2 (2023): 4-7. 
+
 [Yorke 2014] Yorke, E. (2014). **Mafeking: 1899-1900.** Gloucestshire, UK: The History Press.
 
 
