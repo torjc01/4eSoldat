@@ -41,17 +41,21 @@ no-delimiters - direct copy from a source text.
 |Age at death|67 y-o|
 |Burial site|[Mount Hermon Cemetery](https://www.mounthermoncemetery.com/), Quebec City, QC. <br/> Lot #1804, Section K. <br/> GPS coords: [46.7787065583,-71.2467289583](https://www.google.com/maps/search/?api=1&query=46.7787065583,-71.2467289583) |
 
-[[[ Son of Major Alexander 'Alex' Young (52nd Battalion) and Annie Buxton Young (née Gardiner); husband of Nursing Sister Lieutenant Irene May Young (née Fellows).
+[[[ 
 
-At the First World War, he served the Canadian Machine Gun Corps, with a rank of Lieutenant, teaching Machine Gun usage to the troops in England, before being shipped to the French front. 
+Son of Major Alexander 'Alex' Young (52nd Battalion) and Annie Buxton Young (née Gardiner); husband of Nursing Sister Lieutenant Irene May Young (née Fellows).
+
+Before the Great War, he was a cadet and then a member of the Militia in Québec, serving within the ranks of the 8th Regiment. 
+
+At the First World War, he served the Canadian Machine Gun Corps, firstly with a rank of Sergeant, then comissioned to Lieutenant, teaching Machine Gun usage to the troops in England, before being shipped to the French front. 
 
 After the Great War, he joined the Royal Rifles of Canada and rose through the ranks to become Lieutenant Colonel in 1934.
 
-At the Second World War, he is shipped with the Royal Rifles of Canada to improve the defense of Hong Kong colony, by the end of 1941. This was a request from the British War Cabinet that Canada complied. On Dec 8th 1941, the day after Pearl Harbour attack, the Japaneseattacked the colony. The defenders, British, Indian, Hong Kong volunteers, and Canadians, put up a defense and were able to resist up to the 24th. On Christmas day, seeing that further resistence would be futile, the commander ordered all troops to surrender and avoid further life loss. 
+At the Second World War, he is shipped with the Royal Rifles of Canada to improve the defense of Hong Kong colony, by the end of 1941. This was a request from the British War Cabinet that Canada complied. On Dec 8th 1941, the day after Pearl Harbour attack, the Japanese attacked the colony. The defenders, British, Indian, Hong Kong volunteers and Canadians, put up a defense and were able to resist up to the 24th. On Christmas day, seeing that further resistence would be futile, the commander ordered all troops to surrender and avoid further life loss. 
 
-Brother Charles was captured at the end of the battle, on Dec 28th.     He was sent to a prisoner camp, inside which he would spend the rest of the war in 1945.
+Brother Charles was captured at the end of the battle, on Dec 28th. He was among the ladt troops to surrender and be captured. He was sent to a prisoner camp, inside which he would spend the rest of the war, up to 1945.
 
-À la Seconde Guerre mondiale, il est capturé à la fin de la Bataille de Hong Kong, sera envoyé en camps de prisonniers dans lesquels il restera jusqu'à la fin de la guerre en 1945.  ]]]
+]]]
 
 ## First World War
 
