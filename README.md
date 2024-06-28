@@ -41,17 +41,21 @@ no-delimiters - direct copy from a source text.
 |Age at death|67 y-o|
 |Burial site|[Mount Hermon Cemetery](https://www.mounthermoncemetery.com/), Quebec City, QC. <br/> Lot #1804, Section K. <br/> GPS coords: [46.7787065583,-71.2467289583](https://www.google.com/maps/search/?api=1&query=46.7787065583,-71.2467289583) |
 
-[[[ Son of Major Alexander 'Alex' Young (52nd Battalion) and Annie Buxton Young (née Gardiner); husband of Nursing Sister Lieutenant Irene May Young (née Fellows).
+[[[ 
 
-At the First World War, he served the Canadian Machine Gun Corps, with a rank of Lieutenant, teaching Machine Gun usage to the troops in England, before being shipped to the French front. 
+Son of Major Alexander 'Alex' Young (52nd Battalion) and Annie Buxton Young (née Gardiner); husband of Nursing Sister Lieutenant Irene May Young (née Fellows).
+
+Before the Great War, he was a cadet and then a member of the Militia in Québec, serving within the ranks of the 8th Regiment. 
+
+At the First World War, he served the Canadian Machine Gun Corps, firstly with a rank of Sergeant, then comissioned to Lieutenant, teaching Machine Gun usage to the troops in England, before being shipped to the French front. 
 
 After the Great War, he joined the Royal Rifles of Canada and rose through the ranks to become Lieutenant Colonel in 1934.
 
-At the Second World War, he is shipped with the Royal Rifles of Canada to improve the defense of Hong Kong colony, by the end of 1941. This was a request from the British War Cabinet that Canada complied. On Dec 8th 1941, the day after Pearl Harbour attack, the Japaneseattacked the colony. The defenders, British, Indian, Hong Kong volunteers, and Canadians, put up a defense and were able to resist up to the 24th. On Christmas day, seeing that further resistence would be futile, the commander ordered all troops to surrender and avoid further life loss. 
+At the Second World War, he is shipped with the Royal Rifles of Canada to improve the defense of Hong Kong colony, by the end of 1941. This was a request from the British War Cabinet that Canada complied. On Dec 8th 1941, the day after Pearl Harbour attack, the Japanese attacked the colony. The defenders, British, Indian, Hong Kong volunteers and Canadians, put up a defense and were able to resist up to the 24th. On Christmas day, seeing that further resistence would be futile, the commander ordered all troops to surrender and avoid further life loss. 
 
-Brother Charles was captured at the end of the battle, on Dec 28th.     He was sent to a prisoner camp, inside which he would spend the rest of the war in 1945.
+Brother Charles was captured at the end of the battle, on Dec 28th. He was among the ladt troops to surrender and be captured. He was sent to a prisoner camp, inside which he would spend the rest of the war, up to 1945.
 
-À la Seconde Guerre mondiale, il est capturé à la fin de la Bataille de Hong Kong, sera envoyé en camps de prisonniers dans lesquels il restera jusqu'à la fin de la guerre en 1945.  ]]]
+]]]
 
 ## First World War
 
@@ -76,7 +80,7 @@ Brother Charles was captured at the end of the battle, on Dec 28th.     He was s
 |Demobilization date| June 12th 1919, Québec City, QC|
 |Medals and awards | Military Cross, British War Medal, Victory Medal|
 
-Sgt Charles Alexander served in the 8th Regiment "Royal Rifles" from 1908. With the ecclosion of the war, details from the 8th, 9th and 87th regiments were put on active service for local protection duty. On Aug 10 1914, thr 12th Battalion, CEF was authorized and elements from these regiments composed its contingent. [^8thReg]. Sgt Charles Alexander is considered fit for active duty overseas on Sept 29 1914, by Dr R A Sutherland, Capt AMC, and embarks towards Great Britain aboard the SS Scotian, arriving in England Oct 14th 1914. [^Voyage]? The battalion keeps embarked until the 25th, when it is authorized to disembark and mach towards the Bustard Camp, on the Salisbury Plain[^Salisbury]. 
+Sgt Charles Alexander served in the 8th Regiment "Royal Rifles" from 1908. With the ecclosion of the war, details from the 8th, 9th and 87th regiments were put on active service for local protection duty. On Aug 10 1914, the 12th Battalion, CEF was authorized and elements from these regiments composed its contingent. [^8thReg]. Sgt Charles Alexander is considered fit for active duty overseas on Sept 29 1914, by Dr R A Sutherland, Capt AMC, and embarks towards Great Britain aboard the SS Scotian, arriving in England Oct 14th 1914. [^Voyage]? The battalion keeps embarked until the 25th, when it is authorized to disembark and mach towards the Bustard Camp, on the Salisbury Plain[^Salisbury]. 
 
 > [!TIP]
 > Curiosity: Salisbury Plain is the same region where Stonehenge is located !
@@ -268,7 +272,7 @@ Lt-Col C.A. Young of Quebec, who died recently at Toronto, spent the Second Worl
 
 A veteran of both world wars, he was awarded the Military Cross for bravery in the Second (sic) World War. 
 
-Well know in his youth as a sportsman, he became quite famous as a hockey player here. Among other sporting activities, he also excelled at curling. 
+Well known in his youth as a sportsman, he became quite famous as a hockey player here. Among other sporting activities, he also excelled at curling. 
 
 He was also a president of the Army, Navy and Airforce Association for many years. 
 
@@ -280,7 +284,7 @@ His father, the late Maj Alexander Young, was also a soldier and commanded the 5
 
 **Gravestone** 
 
-His final resting place is in Québec City Cemetery Mount Hermon, in a quiet part of city, in the most peaceful place inside the cemetery, near its centre, where the silence and peace reign absolute for his eternal rest. 
+His final resting place is in Québec City Cemetery Mount Hermon, in a quiet part of the city, in the most peaceful place inside the cemetery, near its centre, where the silence and peace reign absolute for his eternal rest. 
 
 <img src="./images/cayoung/Headstone.JPG" width="800">
 
