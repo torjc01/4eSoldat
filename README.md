@@ -213,8 +213,6 @@ Commanding officer of the "A" Coy, 1st Btn RRC
 
 ### **Battle**
 
-
-
 <img src="https://www.warmuseum.ca/ke/_resources/3124503/19700036-024.jpg" />
 
 **After the destruction of the regiment on the aftermath of the Battle of Hong Kong, the Royal Rifles of Canada atarted a recruitment campaign to rebuild the regiment. <br /> Source: Canada War Museum.**
@@ -474,6 +472,10 @@ https://www.ville.quebec.qc.ca/citoyens/patrimoine/toponymie/anciens_toponymes.a
 Canadian Military History Journal - 
 For its fall 2021 issue, Canadian Military History has published a special issue to commemorate the Battle of Hong Kong’s eightyth anniversary. This issue explores various aspects of the battle, its aftermath and its memory.    
 https://scholars.wlu.ca/cmh/vol30/iss2/
+
+ANAVETS - The Army, Navy and Air Force Association   
+Association dont fr Charles a été le président pendant l'année 1953   
+https://www.anavets.ca
 
 
 ## Newspapers clippings
