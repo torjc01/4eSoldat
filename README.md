@@ -247,6 +247,12 @@ Commanding officer of the "A" Coy, 1st Btn RRC
 
 **RRC Officers arrival at Quebec City. Maj Charles Alexander on the top-right photo, with his daughter Florence May Young. <br /> Source: Copied with permission from the HKVCA Photo Gallery. Copyright remains with the original owner.**
 
+<img src="./images/cayoung/Lt-ColCharlesYoungPostWar.jpg" height="600" />
+
+**Lt-Col Charles Alexander Young, in the years after the war. Source: family photo.**
+
+
+
 ### Obituaries 
 
 **Obituary and Albion's Invitation  Chronicle, 1963-10-03, p. 12**[^Obt1]   
