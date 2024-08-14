@@ -249,7 +249,7 @@ Commanding officer of the "A" Coy, 1st Btn RRC
 
 ### Obituaries 
 
-**Obituary and Albion's Invitation  Chronicle, 1693-10-03, p. 12**[^Obt1]   
+**Obituary and Albion's Invitation  Chronicle, 1963-10-03, p. 12**[^Obt1]   
 [^Obt1]: https://news.google.com/newspapers?nid=9tXw7Op4-u0C&dat=19631003&printsec=frontpage&hl=en    
 
 YOUNG - Suddenly at Toronto, Ont. on October 2nd 1963, Lt-Col C.A. Young, MC, VC, ED, beloved husband of the late Irene Fellows and dear father of Donald and Phyllis (Mrs Harry Thompson). Resting at the D.S. Rickaby Funeral Home, 707 St John Street, corner Geneviève (...). Funeral Saturday, at 2.00 service in Chalmers Wesley Church, Interment Mount Hermon Cemetery. 
