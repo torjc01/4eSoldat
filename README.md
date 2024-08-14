@@ -53,7 +53,7 @@ After the Great War, he joined the Royal Rifles of Canada and rose through the r
 
 At the Second World War, he is shipped with the Royal Rifles of Canada to improve the defense of Hong Kong colony, by the end of 1941. This was a request from the British War Cabinet that Canada complied. On Dec 8th 1941, the day after Pearl Harbour attack, the Japanese attacked the colony. The defenders, British, Indian, Hong Kong volunteers and Canadians, put up a defense and were able to resist up to the 24th. On Christmas day, seeing that further resistence would be futile, the commander ordered all troops to surrender and avoid further life loss. 
 
-Brother Charles was captured at the end of the battle, on Dec 28th. He was among the ladt troops to surrender and be captured. He was sent to a prisoner camp, inside which he would spend the rest of the war, up to 1945.
+Brother Charles was captured at the end of the battle, on Dec 28th. He was among the last troops to surrender and be captured. He was sent to a prisoner camp, inside which he would spend the rest of the war, up to 1945.
 
 ]]]
 
@@ -83,11 +83,11 @@ Brother Charles was captured at the end of the battle, on Dec 28th. He was among
 Sgt Charles Alexander served in the 8th Regiment "Royal Rifles" from 1908. With the ecclosion of the war, details from the 8th, 9th and 87th regiments were put on active service for local protection duty. On Aug 10 1914, the 12th Battalion, CEF was authorized and elements from these regiments composed its contingent. [^8thReg]. Sgt Charles Alexander is considered fit for active duty overseas on Sept 29 1914, by Dr R A Sutherland, Capt AMC, and embarks towards Great Britain aboard the SS Scotian, arriving in England Oct 14th 1914. [^Voyage]? The battalion keeps embarked until the 25th, when it is authorized to disembark and mach towards the Bustard Camp, on the Salisbury Plain[^Salisbury]. 
 
 > [!TIP]
-> Curiosity: Salisbury Plain is the same region where Stonehenge is located !
+> Curiosity: Salisbury Plain is the same region where Stonehenge is located!
 
 ### Timeline of the Great War 
 
-June 3rd 1916 - Death of Major [Alexander Young](./ayoung.md), in Ypres, Belgium.
+June 3rd 1916 - Death of his father, Major [Alexander Young](./ayoung.md), in Ypres, Belgium.
 
 **11th Canadian Infantry Brigade MG Coy**
 - Aug 12th 1916 - Disembark at Le Havre   
