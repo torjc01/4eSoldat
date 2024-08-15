@@ -243,6 +243,23 @@ Commanding officer of the "A" Coy, 1st Btn RRC
 
 **In the fourth row from the bottom, 3rd from the left is X96 Major Charles A. Young of the Royal Rifles of Canada. <br/>Apparently this photo was taken just after liberation. <br/>Source: Copied with permission from the HKVCA Photo Gallery. Copyright remains with the original owner.**
 
+## Brother Charles' War Diary 
+
+Brother Charles kept a diary throughout the captivity period where he and other fellows jotted down, scribbled, and let out on paper the fellings of being held prisoners.  
+
+<img src="./images/cayoung/HKDiary01.JPG" width="600"/>
+<img src="./images/cayoung/HKDiary02.JPG" width="600"/>
+<img src="./images/cayoung/HKDiary03.JPG" width="600"/>
+<img src="./images/cayoung/HKDiary08.JPG" width="600"/>
+<img src="./images/cayoung/HKDiary04.JPG" width="600"/>
+<img src="./images/cayoung/HKDiary05.JPG" width="600"/>
+<img src="./images/cayoung/HKDiary06.JPG" width="600"/>
+<img src="./images/cayoung/HKDiary07.JPG" width="600"/>
+
+**All the photos are provided by the kind contribution of Mrs Thompson-Castagnette, who takes active steps in preserving her family's memory.**
+
+## Arriving Home, post-war years
+
 <img src="./images/cayoung/QuebecCityArrival.jpg" width="600" />
 
 **RRC Officers arrival at Quebec City. Maj Charles Alexander on the top-right photo, with his daughter Florence May Young. <br /> Source: Copied with permission from the HKVCA Photo Gallery. Copyright remains with the original owner.**
@@ -358,22 +375,6 @@ Right Worshipful Brother Alexander Young was the Master of the Lodge for the yea
 <img src="./images/cayoung/platAlbion.jpg" />
 
 **Plat commemoratif des 175 ans de la loge Albion donné au Fr Charles Alexander Young. Source: family photo**
-
-## Brother Charles' War Diary 
-
-Brother Charles kept a diary throughout the captivity period where he and other fellows jotted down, scribbled, and let out on paper the fellings of being held prisoners. 
-
-All the photos are provided by the kind contribution of Mrs Thompson-Castagnette, who takes active steps in preserving her family's memory. 
-
-<img src="./images/cayoung/HKDiary01.JPG" width="600"/>
-<img src="./images/cayoung/HKDiary02.JPG" width="600"/>
-<img src="./images/cayoung/HKDiary03.JPG" width="600"/>
-<img src="./images/cayoung/HKDiary08.JPG" width="600"/>
-<img src="./images/cayoung/HKDiary04.JPG" width="600"/>
-<img src="./images/cayoung/HKDiary05.JPG" width="600"/>
-<img src="./images/cayoung/HKDiary06.JPG" width="600"/>
-<img src="./images/cayoung/HKDiary07.JPG" width="600"/>
-
 
 # TODO
 
