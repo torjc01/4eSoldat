@@ -45,13 +45,13 @@ no-delimiters - direct copy from a source text.
 
 Son of Major Alexander 'Alex' Young (52nd Battalion) and Annie Buxton Young (née Gardiner); husband of Nursing Sister Lieutenant Irene May Young (née Fellows).
 
-Before the Great War, he was a cadet and then a member of the Militia in Québec, serving within the ranks of the 8th Regiment. 
+Before the Great War, he was a cadet and then a member of the Militia in Québec, serving within the ranks of the 8th Regiment.
 
-At First World War, he served the Canadian Machine Gun Corps, firstly with a rank of Sergeant, then comissioned to Lieutenant, teaching Machine Gun usage and bayonet combat to the troops in England, before being dispatched to the French front. 
+At First World War, he served the Canadian Machine Gun Corps, firstly with a rank of Sergeant, then commissioned to Lieutenant, teaching Machine Gun usage and bayonet combat to the troops in England, before being dispatched to the French front.
 
 After the Great War, he joined the Royal Rifles of Canada (RRC) and rose through the ranks to become Lieutenant-Colonel and commanding officer of the regiment in 1934.
 
-At Second World War, by the end of 1941, he is sent with the Royal Rifles to improve the defense of the colony of Hong Kong. This was a request from the British War Cabinet that Canada complied. On Dec 8th 1941, the day after Pearl Harbour attack, the Japanese attacked the colony. The defenders, British, Indian, Hong Kong volunteers and Canadians, put up a defense and were able to resist up to the 24th. On Christmas day, seeing that further resistence would be futile, the governor ordered all troops to surrender and avoid further life loss. 
+At Second World War, by the end of 1941, he is sent with the Royal Rifles to improve the defense of the colony of Hong Kong. This was a request from the British War Cabinet that Canada complied. On Dec 8th 1941, the day after Pearl Harbor attack, the Japanese attacked the colony. The defenders, British, Indian, Hong Kong volunteers and Canadians, put up a defense and were able to resist up to the 24th. On Christmas day, seeing that further resistance would be futile, the governor ordered all troops to surrender and avoid further life loss.
 
 Brother Charles was captured after the end of the battle, on Dec 28th. He was the last to surrender command. He and his last troops were then captured. He was sent to the prisoner camp system, inside which he would spend the rest of the war, up to September 1945.
 
