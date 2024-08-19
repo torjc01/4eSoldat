@@ -233,7 +233,7 @@ Commanding officer of the "A" Coy, 1st Btn RRC
 
 <img src="./images/cayoung/POWreleaseYokohama.jpg" width="600" />
 
-**POW released from Yokohama camp. <br />Source: Copied with permission from the HKVCA Photo Gallery. Copyright remains with the original owner.**
+**POW released from Yokohama camp. Rifleman James Andrew Flanagan on the left. <br />Source: Copied with permission from the HKVCA Photo Gallery. Copyright remains with the original owner.**
 
 <img src="./images/cayoung/CdrRitchea.JPG" width="600" />
 
