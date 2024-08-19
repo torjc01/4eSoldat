@@ -220,12 +220,12 @@ Commanding officer of the "A" Coy, 1st Btn RRC
 <b>Liste des camps de prisonniers et les dates d'internement et de sortie</b> 
 
 
-|Camp ID 	|Camp Name 	|Location 	|Company 	|Type of Work 	|Reference 	|Arrival Date 	|Departure Date|
-|---|----|----|---|---|---|---|---|
-|HK-NP-01	|North Point	  |North Point, Hong Kong Island|||   | 41 Dec 30	|42 Sep 26|
-|HK-SA-02	|Shamshuipo	    |Kowloon, Hong Kong||||             | 42 Sep 26	|43 Aug 19|
-|HK-AS-02	|Argyle Street	|Kowloon, Hong Kong|||20, 33        |	43 Aug 19 |44 May 11|
-|HK-SA-02	|Shamshuipo	    |Kowloon, Hong Kong|||20, 33        |	44 May 11	|45 Sep 10|
+|Camp ID 	|Camp Name 	|Location  	|Arrival Date 	|Departure Date|
+|---|----|----|---|---|
+|HK-NP-01	|North Point	  |North Point, Hong Kong Island|  | 41 Dec 30	|42 Sep 26|
+|HK-SA-02	|Shamshuipo	    |Kowloon, Hong Kong             | 42 Sep 26	|43 Aug 19|
+|HK-AS-02	|Argyle Street	|Kowloon, Hong Kong|        |	43 Aug 19 |44 May 11|
+|HK-SA-02	|Shamshuipo	    |Kowloon, Hong Kong|      |	44 May 11	|45 Sep 10|
 
 <img src="./images/cayoung/POWBarracks.jpg" width="600" />
 
