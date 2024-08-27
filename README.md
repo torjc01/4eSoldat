@@ -485,37 +485,47 @@ https://www.anavets.ca
 
 ## Newspapers clippings
 
-The Quebec chronicle, 1907-08-03, Collections de BAnQ. Trap Shoot Prizes: Programme of Dominion Association in Toronto next week. 
+
+L'événement, 1905-10-27, Collections de BAnQ. Nouvelles Sport: Concours d'hier-Sts resultats, Association de tir de Quebec.    
+https://numerique.banq.qc.ca/patrimoine/details/52327/4578767
+
+The Quebec chronicle, 1907-08-03, Collections de BAnQ. Trap Shoot Prizes: Programme of Dominion Association in Toronto next week.   
 https://numerique.banq.qc.ca/patrimoine/details/52327/3608333
 
+The Quebec chronicle, 1910-02-03, Collections de BAnQ. Annual sports of RCR.   
+https://numerique.banq.qc.ca/patrimoine/details/52327/3609109
 
-The Quebec chronicle, 1910-11-30, Collections de BAnQ. Shooting on miniature ranges. *(Charles champion de la Challenge Cup. Son père, seconde place dans la catégorie seniors de la Wm McPherson Cup)*. 
+The Quebec chronicle, 1910-11-30, Collections de BAnQ. Shooting on miniature ranges. *(Charles champion de la Challenge Cup. Son père, seconde place dans la catégorie seniors de la Wm McPherson Cup)*.   
 https://numerique.banq.qc.ca/patrimoine/details/52327/3609365
 
-
-L'action sociale, 1910-11-30, Collections de BAnQ. Le tir: un concours intéressant. *(Charles champion de la Challenge Cup. Son père, seconde place dans la catégorie seniors de la Wm McPherson Cup)*. 
+L'action sociale, 1910-11-30, Collections de BAnQ. Le tir: un concours intéressant. *(Charles champion de la Challenge Cup. Son père, seconde place dans la catégorie seniors de la Wm McPherson Cup)*.   
 https://numerique.banq.qc.ca/patrimoine/details/52327/2783875
 
-
-Le soleil, 1910-11-30, Collections de BAnQ. Le tir: En miniature. *(Charles champion de la Challenge Cup. Son père, seconde place dans la catégorie seniors de la Wm McPherson Cup)*.
+Le soleil, 1910-11-30, Collections de BAnQ. Le tir: En miniature. *(Charles champion de la Challenge Cup. Son père, seconde place dans la catégorie seniors de la Wm McPherson Cup)*.   
 https://numerique.banq.qc.ca/patrimoine/details/52327/3481922
 
-
-The Quebec chronicle, 1914-03-26, Collections de BAnQ. Good showing in basketball games. 
+The Quebec chronicle, 1914-03-26, Collections de BAnQ. Good showing in basketball games.   
 https://numerique.banq.qc.ca/patrimoine/details/52327/3610392
 
-
-Le soleil, 1914-03-26, Collections de BAnQ. Basketball Trois bonnes jutes. 
+Le soleil, 1914-03-26, Collections de BAnQ. Basketball Trois bonnes jutes.   
 https://numerique.banq.qc.ca/patrimoine/details/52327/3479737
 
+The Quebec chronicle, 1916-06-08, Collections de BAnQ. Three Quebecers lose their lives.     
+https://numerique.banq.qc.ca/patrimoine/details/52327/3611081 
 
-The Quebec chronicle, 1923-11-10, Collections de BAnQ. Dance at Drill Hall. 
+The Quebec chronicle, 1916-06-12, Collections de BAnQ. METHODIST CHURCH MEMORIAL SERVICE.    
+https://numerique.banq.qc.ca/patrimoine/details/52327/3611084 
+
+The Quebec chronicle, 1923-11-10, Collections de BAnQ. Dance at Drill Hall.   
 https://numerique.banq.qc.ca/patrimoine/details/52327/3613413
 
-
-Gazette officielle du Québec. Québec official gazette, 1957-03-30, Collections de BAnQ, p. 1128. Cambrai Bowling Alleys Inc *(Charles Alexander as a businessman)*.    
+Gazette officielle du Québec. Québec official gazette, 1957-03-30, Collections de BAnQ, p. 1128. Cambrai Bowling Alleys Inc *(Charles Alexander as a businessman)*.     
 https://numerique.banq.qc.ca/patrimoine/details/52327/2358987
 
+La tribune, 1993-02-01, Collections de BAnQ. Les soldats canadiens auraient été lâches à Hong Kong en 41.    
+https://numerique.banq.qc.ca/patrimoine/details/52327/3801544
+
+## Articles - academic, journaux
 
 Perras, Galen. **Defeat Still Cries Aloud for Explanation: Explaining C Force’s Dispatch to Hong Kong.** Valour (Vol. 11, No. 4).  
 http://www.journal.forces.gc.ca/vo11/no4/37-perras-eng.asp  French: http://www.journal.forces.gc.ca/vo11/no4/37-perras-fra.asp
@@ -526,7 +536,9 @@ https://www.hkvca.ca/st_croix/thesis.pdf
 Maltby, Christopher. **OPERATIONS IN HONG KONG FROM 8TH TO 25th DECEMBER, 1941.** Supplement to the London Gazette, 27th of January, 1948. 
 http://ibiblio.org/hyperwar/UN/UK/LondonGazette/38190.pdf
 
-Video: Hong Kong Reinforced. British Pathé. 
+## Videos 
+
+Hong Kong Reinforced. British Pathé.   
 https://www.youtube.com/watch?v=ZWY3atYUFQU
 
 
