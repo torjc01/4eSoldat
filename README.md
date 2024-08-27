@@ -486,44 +486,51 @@ https://www.anavets.ca
 ## Newspapers clippings
 
 
-L'événement, 1905-10-27, Collections de BAnQ. Nouvelles Sport: Concours d'hier-Sts resultats, Association de tir de Quebec.    
+[Evenement 1905-10-27] L'événement, 1905-10-27, Collections de BAnQ. Nouvelles Sport: Concours d'hier-Sts resultats, Association de tir de Quebec.    
 https://numerique.banq.qc.ca/patrimoine/details/52327/4578767
 
-The Quebec chronicle, 1907-08-03, Collections de BAnQ. Trap Shoot Prizes: Programme of Dominion Association in Toronto next week.   
+[QcChronicle 1907-08-03] The Quebec chronicle, 1907-08-03, Collections de BAnQ. Trap Shoot Prizes: Programme of Dominion Association in Toronto next week.   
 https://numerique.banq.qc.ca/patrimoine/details/52327/3608333
 
-The Quebec chronicle, 1910-02-03, Collections de BAnQ. Annual sports of RCR.   
+[QcChronicle 1910-02-03] The Quebec chronicle, 1910-02-03, Collections de BAnQ. Annual sports of RCR.   
 https://numerique.banq.qc.ca/patrimoine/details/52327/3609109
 
-The Quebec chronicle, 1910-11-30, Collections de BAnQ. Shooting on miniature ranges. *(Charles champion de la Challenge Cup. Son père, seconde place dans la catégorie seniors de la Wm McPherson Cup)*.   
+[QcChronicle 1910-11-30] The Quebec chronicle, 1910-11-30, Collections de BAnQ. Shooting on miniature ranges. *(Charles champion de la Challenge Cup. Son père, seconde place dans la catégorie seniors de la Wm McPherson Cup)*.   
 https://numerique.banq.qc.ca/patrimoine/details/52327/3609365
 
-L'action sociale, 1910-11-30, Collections de BAnQ. Le tir: un concours intéressant. *(Charles champion de la Challenge Cup. Son père, seconde place dans la catégorie seniors de la Wm McPherson Cup)*.   
+[ActionSociale 1910-11-30] L'action sociale, 1910-11-30, Collections de BAnQ. Le tir: un concours intéressant. *(Charles champion de la Challenge Cup. Son père, seconde place dans la catégorie seniors de la Wm McPherson Cup)*.   
 https://numerique.banq.qc.ca/patrimoine/details/52327/2783875
 
-Le soleil, 1910-11-30, Collections de BAnQ. Le tir: En miniature. *(Charles champion de la Challenge Cup. Son père, seconde place dans la catégorie seniors de la Wm McPherson Cup)*.   
+[Soleil 1910-11-30]Le soleil, 1910-11-30, Collections de BAnQ. Le tir: En miniature. *(Charles champion de la Challenge Cup. Son père, seconde place dans la catégorie seniors de la Wm McPherson Cup)*.   
 https://numerique.banq.qc.ca/patrimoine/details/52327/3481922
 
-The Quebec chronicle, 1914-03-26, Collections de BAnQ. Good showing in basketball games.   
+[QcChronicle 1914-03-26] The Quebec chronicle, 1914-03-26, Collections de BAnQ. Good showing in basketball games.   
 https://numerique.banq.qc.ca/patrimoine/details/52327/3610392
 
-Le soleil, 1914-03-26, Collections de BAnQ. Basketball Trois bonnes jutes.   
+[Soleil 1914-03-26] Le soleil, 1914-03-26, Collections de BAnQ. Basketball Trois bonnes jutes.   
 https://numerique.banq.qc.ca/patrimoine/details/52327/3479737
 
-The Quebec chronicle, 1916-06-08, Collections de BAnQ. Three Quebecers lose their lives.     
+[QcChronicle 1916-06-08] The Quebec chronicle, 1916-06-08, Collections de BAnQ. Three Quebecers lose their lives.     
 https://numerique.banq.qc.ca/patrimoine/details/52327/3611081 
 
-The Quebec chronicle, 1916-06-12, Collections de BAnQ. METHODIST CHURCH MEMORIAL SERVICE.    
+[QcChronicle 1916-06-12] The Quebec chronicle, 1916-06-12, Collections de BAnQ. METHODIST CHURCH MEMORIAL SERVICE.    
 https://numerique.banq.qc.ca/patrimoine/details/52327/3611084 
 
-The Quebec chronicle, 1923-11-10, Collections de BAnQ. Dance at Drill Hall.   
+[QcChronicle 1923-11-10] The Quebec chronicle, 1923-11-10, Collections de BAnQ. Dance at Drill Hall.   
 https://numerique.banq.qc.ca/patrimoine/details/52327/3613413
 
-Gazette officielle du Québec. Québec official gazette, 1957-03-30, Collections de BAnQ, p. 1128. Cambrai Bowling Alleys Inc *(Charles Alexander as a businessman)*.     
+[GazetteQuebec 1957-03-30] Gazette officielle du Québec. Québec official gazette, 1957-03-30, Collections de BAnQ, p. 1128. Cambrai Bowling Alleys Inc *(Charles Alexander as a businessman)*.     
 https://numerique.banq.qc.ca/patrimoine/details/52327/2358987
 
-La tribune, 1993-02-01, Collections de BAnQ. Les soldats canadiens auraient été lâches à Hong Kong en 41.    
+[QcChronicle 1963-10-03] Quebec Chronicle, 1963-10-03. Obituary Charles Alexander Young.   
+https://news.google.com/newspapers?nid=9tXw7Op4-u0C&dat=19631003&printsec=frontpage&hl=en 
+
+[QcChronicle 1963-10-05] Quebec Chronicle, 1963-10-05. Lt-Col C.A.Young known as Soldier and Sportsman.   
+https://news.google.com/newspapers?nid=9tXw7Op4-u0C&dat=19631005&printsec=frontpage&hl=en 
+
+[Tribune 1993-02-01] La tribune, 1993-02-01, Collections de BAnQ. Les soldats canadiens auraient été lâches à Hong Kong en 41.    
 https://numerique.banq.qc.ca/patrimoine/details/52327/3801544
+
 
 ## Articles - academic, journaux
 
@@ -540,8 +547,6 @@ http://ibiblio.org/hyperwar/UN/UK/LondonGazette/38190.pdf
 
 Hong Kong Reinforced. British Pathé.   
 https://www.youtube.com/watch?v=ZWY3atYUFQU
-
-
 
 ##  Acknowledgements / Remerciements  
 
