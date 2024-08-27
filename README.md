@@ -517,6 +517,20 @@ Gazette officielle du Québec. Québec official gazette, 1957-03-30, Collections
 https://numerique.banq.qc.ca/patrimoine/details/52327/2358987
 
 
+Perras, Galen. **Defeat Still Cries Aloud for Explanation: Explaining C Force’s Dispatch to Hong Kong.** Valour (Vol. 11, No. 4).  
+http://www.journal.forces.gc.ca/vo11/no4/37-perras-eng.asp  French: http://www.journal.forces.gc.ca/vo11/no4/37-perras-fra.asp
+
+St Croix, Bradley. **FIGHTING IT OUT: CANADIAN TROOPS AT HONG KONG AND IN MEMORY.** Thesis, University of Ottawa.  
+https://www.hkvca.ca/st_croix/thesis.pdf
+
+Maltby, Christopher. **OPERATIONS IN HONG KONG FROM 8TH TO 25th DECEMBER, 1941.** Supplement to the London Gazette, 27th of January, 1948. 
+http://ibiblio.org/hyperwar/UN/UK/LondonGazette/38190.pdf
+
+Video: Hong Kong Reinforced. British Pathé. 
+https://www.youtube.com/watch?v=ZWY3atYUFQU
+
+
+
 ##  Acknowledgements / Remerciements  
 
 ### **Société de Généalogie de Québec**   
