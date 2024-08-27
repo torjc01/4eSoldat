@@ -215,7 +215,7 @@ Commanding officer of the "A" Coy, 1st Btn RRC
 
 <img src="https://www.warmuseum.ca/ke/_resources/3124503/19700036-024.jpg" />
 
-**After the destruction of the regiment on the aftermath of the Battle of Hong Kong, the Royal Rifles of Canada atarted a recruitment campaign to rebuild the regiment. <br /> Source: Canada War Museum.**
+**After the destruction of the regiment on the aftermath of the Battle of Hong Kong, the Royal Rifles of Canada started a recruitment campaign to rebuild the regiment. <br /> Source: Canada War Museum.**
 
 <b>Liste des camps de prisonniers et les dates d'internement et de sortie</b> 
 
