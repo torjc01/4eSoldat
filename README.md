@@ -558,6 +558,9 @@ https://news.google.com/newspapers?nid=9tXw7Op4-u0C&dat=19631005&printsec=frontp
 [Tribune 1993-02-01] La tribune, 1993-02-01, Collections de BAnQ. Les soldats canadiens auraient été lâches à Hong Kong en 41.    
 https://numerique.banq.qc.ca/patrimoine/details/52327/3801544
 
+[NYTimes 2016-12-23] The New York Times, 2016-12-23. A Doomed Battle for Hong Kong, With Only Medals Left 75 Years Later. 
+https://www.nytimes.com/2016/12/23/world/canada/a-doomed-battle-for-hong-kong-with-only-medals-left-75-years-later.html 
+
 
 ## Articles - academic, journaux
 
