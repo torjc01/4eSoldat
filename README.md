@@ -399,27 +399,44 @@ OTHER TASKS
 
 
 ## Bibliography
+[Booth 2016] Booth, Wayne C. The Craft of Research. 4e ed. Chicago : University of Chicago Press, 2016.
 
-[Castonguay 1987a] Castonguay, J. (1987a). **Les Voltigeurs de Québec: Premier régiment canadien-français, Vol. 1.** Quebec: Voltigeurs de Québec.
+[Castonguay 1987a] Castonguay, J. **Les Voltigeurs de Québec: Premier régiment canadien-français, Vol. 1.** Quebec: Voltigeurs de Québec, 1987.
 
-[Castonguay 1987b] Castonguay, J. (1987b). **Les Voltigeurs de Québec: Premier régiment canadien-français, Vol. 2.** Quebec: Voltigeurs de Québec.
+[Castonguay 1987b] Castonguay, J. **Les Voltigeurs de Québec: Premier régiment canadien-français, Vol. 2.** Quebec: Voltigeurs de Québec, 1987.
 
-[Grafton 1938] Lt Col C. S. Grafton (1938). **The Canadian ’Emma Gees’: A History of the Canadian Machine Gun Corps.** Uckfield, UK: The Naval and Military Press.
+[Flanagan 2017] Flanagan, Andy. The Endless Battle : The Fall of Hong Kong and Canadian POWs in Imperial Japan. Fredericton (NB) : Goose Lane Editions, 2017. 
 
-[HKVAC 1980] Hong Kong Veteran’s Association of Canada. **The Royal Rifles of Canada in Hong Kong:1941-1945.** Progressive Publications, Sherbrooke, QC, 1980
+[Grafton 1938] Lt Col C. S. Grafton. **The Canadian ’Emma Gees’: A History of the Canadian Machine Gun Corps.** Uckfield, UK: The Naval and Military Press, 1938.
+
+[Graham 1892] Graham, J. H. Outlines of the History of Freemasonry in the Province of Quebec. Montréal: John Lovell & Son, 1892. 645 p.
+
+[HKVAC 1980] Hong Kong Veteran’s Association of Canada. **The Royal Rifles of Canada in Hong Kong:1941-1945.** Progressive Publications, Sherbrooke, QC, 1980.
 
 [HSCMH 1941] Historical Section Canadian Military Headquarters. **Canadian participation in the Defence of Honk Kong, December, 1941.** Department of National Defense, Ottawa, 1946. 
 https://publications.gc.ca/collections/collection_2016/mdn-dnd/D63-4-163-1946-eng.pdf
 
-[Jünger 1929] Jünger, E. (1929). **In Stahlgewittern: Aus dem Tagesbuch eines Stoßtruppführers.** Berlin: E S Mittler Sohn.
+[Jünger 1929] Jünger, E. **In Stahlgewittern: Aus dem Tagesbuch eines Stoßtruppführers.** Berlin: E S Mittler Sohn, 1929.
 
-[Love 1999] Love, D. W. (1999). **A Call to Arms: The Organization and Administration of
-Canada’s Military in World War One.** Calgary, AB: Bunker to Bunker Books.
+[Lodge of Antiquity 1906] Lodge of Antiquity. By-Laws of The Lodge of Antiquity Ancient Free and Accepted Masons: Being Number One on the Registry of the Most Worshipful The Grand Lodge of Ancient Free and Accepted Masons of Quebec. Montreal: Self published, 1906, 17 p.
 
-[Penny 1962] Penny, A. G. (1962). **The Royal Rifles of Canada ’Able and Willing’ since 1862: A Short History.** Quebec City: Royal Rifles of Canada.
+[Love 1999] Love, D. W. **A Call to Arms: The Organization and Administration of
+Canada’s Military in World War One.** Calgary, AB: Bunker to Bunker Books, 1999.
+
+[Miller 1993] Miller, C. Painting the Map Red: Canada and the South African War 1899-1902. Montreal: Canadian War Museum, 1993. 541 p.
+
+[Nevinson 1963] Nevinson, Harry M. History of the Lodge of Antiquity. Montreal: Self published, 1963, 52, 120.
+
+[Penny 1962] Penny, A. G. **The Royal Rifles of Canada ’Able and Willing’ since 1862: A Short History.** Quebec City: Royal Rifles of Canada, 1962.
 
 [Pöhlmann 2017] Pöhlmann, Markus. "A Portrait of the Soldier as a Young Man: Ernst Jünger at
 Fresnoy, April 1917". Journal of Military and Strategic Studies, 18, no. 2 (2017): 105-117. https://jmss.org/article/download/58297/43850/158926
+
+[Smith 1939] Smith, Pemberton. A research into Early Canadian Masonry 1759-1869. Montréal: Quality Press, 1939. 135 p. Copy: #197
+
+[Smith 2024] Smith, F. Des Québécois en Normandie: Du jour J à la libération de Paris. Montréal: Boréal, 2024.
+
+[Storr 2020] Storr, Will. The Science of Storytelling. New York : Abrams, 2020. 
 
 [Wentzell 2021] Wentzell, Tyler. "Brigadier J.K. Lawson's Diary: October to December 1941".  Canadian Military History Journal, 20, no. 2 (2021): 3-4. https://scholars.wlu.ca/cgi/viewcontent.cgi?article=2070&context=cmh
 
@@ -428,6 +445,20 @@ Fresnoy, April 1917". Journal of Military and Strategic Studies, 18, no. 2 (2017
 
 Library and Archives Canada - Personnel records of the First World War  
 https://www.bac-lac.gc.ca/eng/discover/military-heritage/first-world-war/personnel-records/Pages/item.aspx?IdNumber=330882
+
+### War Diaries 
+
+[RRC War Diary] https://www.hkvca.ca/Gallery/Individuals/Maj%20Charles%20Young/index.htm
+
+[DO-11CMGCoy.pdf] 11th Canadian Infantry Brigade Daily Orders: June 8 1916 – August 10 1916
+
+[WD-11CIBde.pdf] 11th Canadian Infantry Brigade War Diary: August 14 1916 – November 30 1916
+
+[WD-11CIBde-part2.pdf] 11th Canadian Infantry Brigade War Diary Part 2: December 1 1916 – May 31 1917
+
+[WD-16CMGCoy.pdf] 16th Canadian Machine Gun Company War Diary: December 27 1916 – March 31 1918
+
+[WD-4BnCMGCorps.pdf] 4th Battalion, Canadian Machine Gun Corps War Diary: January 1 1918 – March 25 1919
 
 
 ## Charles Alexander's profiles 
@@ -443,10 +474,6 @@ https://www.worldanvil.com/w/je-me-souviens/a/young2C-charles-alexander--ww2--pe
 
 Individual Report: X96 Charles YOUNG (Details from HKVCA).   
 https://www.hkvca.ca/cforcedata/indivreport/indivdetailed.php?regtno=X96
-
-War Diary     
-https://www.hkvca.ca/Gallery/Individuals/Maj%20Charles%20Young/index.htm
-
 
 ## Links to web pages 
 
