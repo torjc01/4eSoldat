@@ -30,6 +30,8 @@ https://numerique.banq.qc.ca/patrimoine/details/52327/2783875
 [Soleil 1910-11-30]Le soleil, 1910-11-30, Collections de BAnQ. Le tir: En miniature. (Charles champion de la Challenge Cup. Son père, seconde place dans la catégorie seniors de la Wm McPherson Cup). {Charles Alexander, Alex Young}
 https://numerique.banq.qc.ca/patrimoine/details/52327/3481922
 
+[Soleil 1911-01-17] Le Soleil, 1911-01-17, Collections de BAnQ. Équipe de cadets de l'école Victoria. Lieut. Charles Young. {Charles Alexander, cadet, Victoria School}
+
 [ActionSociale 1912-11-19] Action Sociale Catholique, 1912-11-19, Collections de BAnQ. Un triste accident d'arme à feu. Un enfant de 9 ans est tué d'un coup de revolver par un petit camarade du même âge. {ImageOK, Alfred Fellows Jr}
 https://numerique.banq.qc.ca/patrimoine/details/52327/2784474?docsearchtext=allan%20fanning
 
@@ -116,20 +118,53 @@ https://numerique.banq.qc.ca/patrimoine/details/52327/3613413
 
 [LaPresse 1945-10-10] La Presse 1945-10-10, Collections de BAnQ. Cauchemar maintenant éloigné. Photo Charles et autres officiers à Victoria. {ImageOK, Charles Alexander, photo poteau}
 
-[SherbrookeDaily 1945-10-11] Sherbrooke Daily 1945-10-11, Collections de BAnQ. Returning home from Hong Kong. Deux photos: une troupes en parade, l'autre photo des officiers devant poteau {ImageOK, Charles Alexander, deux photos, poteau, parade}
+[SherbrookeDaily 1945-10-11] Sherbrooke Daily Record, 1945-10-11, Collections de BAnQ. Returning home from Hong Kong. Deux photos: une troupes en parade, l'autre photo des officiers devant poteau. Food obtained by bribery in Jap camp; Rfn Arnold Pryce tells of being bound and bayoneted... {ImageOK, Charles Alexander, deux photos, poteau, parade}
 
-[Soleil 1945-10-12] Soleil 1945-10-12, Collections de BAnQ. Rapatriés de Hong-Kong reçus en héros à Quebec. Photo arrivée à Quebec, Charles et Phyllis, autres familles RRC. {ImageOK, Charles Alexander, Phyllis}
+[Soleil 1945-10-12] Soleil, 1945-10-12, Collections de BAnQ. Rapatriés de Hong-Kong reçus en héros à Quebec. Photo arrivée à Quebec, Charles et Phyllis, autres familles RRC. {ImageOK, Charles Alexander, Phyllis}
+
+[Evenement 1945-10-12] L'Evénément, 1945-10-12, Collections de BAnQ. Québec reçoit avec émotion les prisonniers de HK. {ImageOK, Charles Alexander, Phyllis}
+
+[SherbrookeDaily 1945-10-22] Sherbrooke Daily Record 1945-10-22, Collections de BAnQ. Reportagem Maj Denison - muitos detalhes a destrinchar a reportagem totalmente. Estatisticas, muito interessante!!!! 
+
+[SherbrookeDaily 1945-11-01] SherbrookeDaily, 1945-11-01, Collections de BAnQ. Commando tactics training lack felt by Canadians at HK says Maj Parker. Story on the side, to get some info about the POW camps and life. 
+
+[WestmountExaminer 1945-12-07] The Westmount Examiner, 1945-12-07, Collections de BAnQ.  Interview: prisoners of war from Hong Kong thanks the Red Cross. {POW, interview, Charles Alexander, Red Cross}. 
+
+[Nicoletain 1945-12-07] Le Nicoletain, 1945-12-07, Collections de BAnQ.  Remerciements des prisonniers de guerre. {POW, interview, Charles Alexander, Red Cross}. 
 
 [WestmountExaminer 1951-03-02] Westmount Examiner 1951-03-02, Collections de BAnQ. Attending marriage, Charles, Irene, Phyllis {ImageOK, Charles, Irene, Phyllis}
+
+[ActionCatholique 1951-11-14] L'ActionCatholique, 1951-11-14, Collections de BAnQ. Bout de sept points au curling Quebec. 
 
 [Soleil 1953-02-06] Soleil 1953-02-06, Collections de BAnQ. Trophee Ronson curling. Charles a competi. {ImageOK, Charles Alexander, curling, ANAVETS}
 
 [Soleil 1953-03-12] Soleil 1953-03-12, Collections de BAnQ. ANAVETS presente un cheque de $1000 a la Croix-Rouge. Photo Charles presentant cheque. {ImageOK, Charles, ANAVETS, Croix-Rouge}
 
+[Soleil 1953-04-15] Le Soleil 1953-04-15, Collections de BAnQ.          Madame L Teakle a reçu a un cocktail. 
+
+[Evenement 1953-04-15] Le Evenement 1953-04-15, Collections de BAnQ.    Madame L Teakle a reçu a un cocktail. 
+
+[Presse 1953-04-15] La Presse 1953-04-16, Collections de BAnQ.          Madame L Teakle a reçu a un cocktail. 
+
+[Patrie 1953-04-17] La Patrie, 1953-04-17, Collections de BAnQ. Mme Teakle a reçu à un cocktail. {Charles Alexander, Irene, Mme Teakle, cocktail, couronnement}. 
+
+[Evenement 1953-05-19] Evenement 1953-05-19, Collections de BAnQ. Le lieut-col et madame CAYoung s'embarqueront demain à bord de l'Empress of France pour un séjour en Angleterre, au cours duquel ils assisteront aux fêtes du couronnement. 
+
+[Presse 1953-05-19] La Presse 1953-05-19, Collections de BAnQ. Le lieut-Col CAYoung s'embarquent demain à Montreal vers la Grande Bretagne. 
+
+[Patrie 1953-05-21] La Patrie 1953-05-21, Collections de BAnQ. Lieut-Col CA Young et mme sont embarqués aboard l'Empress of France vers la Grande-Bretagne. 
+
+[Canada 1953-05-21] Canada 1953-05-21, Collections BAnQ. Le lieutenant colonel et mme CAYoung, de Quebec, s'embarqueront demain, à Montréal, sur l'Empress of France pour la Grande-Bretagne. Mondanités.
+
+[Soleil 1953-06-22] Soleil 1953-06-22, Collections BAnQ. Élu à l'exécutif du Bonspiel International pour 1953-1954. 
+
+[ActionCatholique 1953-06-23] L'Action Catholique, 1953-06-23, Collections BAnQ. Quebecois revenus sur l'Empress of Scotland. ANAVETS, Unité 33. 
+
 [ActionCatholique 1953-06-26] Action Catholique 1953-06-26, Collections de BAnQ. Le lieut.col. Young revient du couronnement. Photo Charles et Irene souriants. {ImageOK, Charles Alexander, ANAVETS, Irene, Couronnement, photo}
 
 [ProgresGolf 1953-09-25] Progres du Golf 1953-09-25, Collections de BAnQ. L'Association des Véterans de l'Armée, de la Marine et de l'Aviation. Photo de divers membres de plusieurs unités. {ImageOK, Charles Alexander, ANAVETS, photo}
 
+[Evenement 1953-10-21] Evenement 1953-10-21, Collections de BAnQ. ... nomination des répresentants de la commission des écoles protestantes de la cité de Québec. Charles Alexander nommé répresentant d'un des huit quartiers de la Cité de Québec. 
 [GazetteQuebec 1956-09-08] Gazette officielle du Québec. Québec official gazette, 1956-09-08, Collections de BAnQ, p. 2909-2910. Quebec Masonic Benevolent Association. {ImageOK, Lettre pattente AMBQ}
 
 [GazetteQuebec 1957-03-30] Gazette officielle du Québec. Québec official gazette, 1957-03-30, Collections de BAnQ, p. 1128. Cambrai Bowling Alleys Inc (Charles Alexander as a businessman).
@@ -141,11 +176,11 @@ https://news.google.com/newspapers?nid=9tXw7Op4-u0C&dat=19631003&printsec=frontp
 [QcChronicle 1963-10-05] Quebec Chronicle, 1963-10-05. Lt-Col C.A.Young known as Soldier and Sportsman.
 https://news.google.com/newspapers?nid=9tXw7Op4-u0C&dat=19631005&printsec=frontpage&hl=en
 
-[Tribune 1993-02-01] La tribune, 1993-02-01, Collections de BAnQ. Les soldats canadiens auraient été lâches à Hong Kong en 41.
-https://numerique.banq.qc.ca/patrimoine/details/52327/3801544
-
-[NYTimes 2016-12-23] The New York Times, 2016-12-23. A Doomed Battle for Hong Kong, With Only Medals Left 75 Years Later. https://www.nytimes.com/2016/12/23/world/canada/a-doomed-battle-for-hong-kong-with-only-medals-left-75-years-later.html
-
 [Tenko 1982] The Tenko Winter 1982. Der Sturmtrooperen ist alles getöten. {ImageOK, Charles Alexander, his own voice, veteran wrtitten}
 
-[Tribune 1993-02-01] La Tribune 1993-02-01. Les soldats canadiens auraient été lâches à Hong Kong en 41. {ImageOK, Charles Alexander, Christopher Maltby, polemique}
+[Tribune 1993-02-01] La tribune, 1993-02-01, Collections de BAnQ. Les soldats canadiens auraient été lâches à Hong Kong en 41. {ImageOK, Charles Alexander, Christopher Maltby, polemique}
+https://numerique.banq.qc.ca/patrimoine/details/52327/3801544
+
+[NYTimes 2016-12-23] The New York Times, 2016-12-23. A Doomed Battle for Hong Kong, With Only Medals Left 75 Years Later. 
+https://www.nytimes.com/2016/12/23/world/canada/a-doomed-battle-for-hong-kong-with-only-medals-left-75-years-later.html
+
