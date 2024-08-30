@@ -51,6 +51,10 @@ Service File:  [B3029-S033](https://central.bac-lac.gc.ca/.item/?op=pdf&app=CEF&
 
 
 
+CAMC Medical Depot No.5   
+Casualty Clearing Services Command, Qc   
+
+
 
 # References 
 
@@ -69,3 +73,6 @@ Census 1911: https://www.ancestry.ca/discoveryui-content/view/1666571:8947
 CEF Service file: https://www.ancestry.ca/discoveryui-content/view/1065783:61084   
 
 Baptism Phyllis Alexandra: https://www.ancestry.ca/discoveryui-content/view/15613517:1091
+
+Record of service – Overseas Military Forces of Canada medical units   
+https://www.canada.ca/en/department-national-defence/services/military-history/history-heritage/official-military-history-lineages/ledgers/ww1-medical-units.html
