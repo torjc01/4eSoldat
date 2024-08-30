@@ -30,11 +30,14 @@ https://numerique.banq.qc.ca/patrimoine/details/52327/2783875
 [Soleil 1910-11-30]Le soleil, 1910-11-30, Collections de BAnQ. Le tir: En miniature. (Charles champion de la Challenge Cup. Son père, seconde place dans la catégorie seniors de la Wm McPherson Cup). {Charles Alexander, Alex Young}
 https://numerique.banq.qc.ca/patrimoine/details/52327/3481922
 
-[Soleil 1911-01-17] Le Soleil, 1911-01-17, Collections de BAnQ. Équipe de cadets de l'école Victoria. Lieut. Charles Young. {Charles Alexander, cadet, Victoria School, Harold Fellows, Carleton Challenge Shield}
+[Soleil 1911-01-17] Le Soleil, 1911-01-17, Collections de BAnQ. Équipe de cadets de l'école Victoria. Lieut. Charles Young. {Charles Alexander, cadet, Victoria School, Harold Fellows, Carleton Challenge Shield}   
+https://numerique.banq.qc.ca/patrimoine/details/52327/3481960
 
-[ActionSociale 1911-01-17] L'Action Sociale, 1911-01-17, Collections de BAnQ. Équipe de cadets de l'école Victoria. Lieut. Charles Young. {Charles Alexander, cadet, Victoria School, Harold Fellows, Carleton Challenge Shield}
+[ActionSociale 1911-01-17] L'Action Sociale, 1911-01-17, Collections de BAnQ. Équipe de cadets de l'école Victoria. Lieut. Charles Young. {Charles Alexander, cadet, Victoria School, Harold Fellows, Carleton Challenge Shield}   
+https://numerique.banq.qc.ca/patrimoine/details/52327/2783913
 
-[QcChronicle 1911-01-17] QcChronicle, 1911-01-17, Collections de BAnQ. Victoria School cadet rifle team. {Charles Alexander, Harold Fellows, Carleton Challenge Shield, cadet, Victoria School}
+[QcChronicle 1911-01-17] QcChronicle, 1911-01-17, Collections de BAnQ. Victoria School cadet rifle team. {Charles Alexander, Harold Fellows, Carleton Challenge Shield, cadet, Victoria School}   
+https://numerique.banq.qc.ca/patrimoine/details/52327/3609404
 
 [ActionSociale 1912-11-19] Action Sociale Catholique, 1912-11-19, Collections de BAnQ. Un triste accident d'arme à feu. Un enfant de 9 ans est tué d'un coup de revolver par un petit camarade du même âge. {ImageOK, Alfred Fellows Jr}
 https://numerique.banq.qc.ca/patrimoine/details/52327/2784474?docsearchtext=allan%20fanning
