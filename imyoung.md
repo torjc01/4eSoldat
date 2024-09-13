@@ -49,9 +49,7 @@ Unit: Canadian Army Medical Corps
 Rank: Nursing Sister (Lieutenant)	  
 Service File:  [B3029-S033](https://central.bac-lac.gc.ca/.item/?op=pdf&app=CEF&id=B3029-S033)     
 
-
-
-CAMC Medical Depot No.5   
+CAMC Medical Depot No.5     
 Casualty Clearing Services Command, Qc   
 
 
@@ -60,9 +58,13 @@ Casualty Clearing Services Command, Qc
 
 ## Bibliography
 
+[Bowers 2024] Bowers, Alex. **Sisters Act: How the Great War's Canadian nurses brought comfort and care to patients while enduring their own personal turmoil.** In Legion Magazine, Vol. 99, No. 5, Sept/Oct 2024, pp. 30-35.
+
 [Toman 2016] Toman, Cynthia. (2016). **Sister Soldiers of the Great War: The Nurses of the Canadian Army Medical Corps.** Vancouver: UBC Press.
 
 # Web 
+
+[Cascagnette 2024-08-29] Email Jayne Thompson, August 29th 2024.
 
 IWM: https://livesofthefirstworldwar.iwm.org.uk/lifestory/5857947    
 Great War Project: https://canadiangreatwarproject.com/person.php?pid=87189
