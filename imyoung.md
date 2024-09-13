@@ -31,9 +31,9 @@ Irene May Fellows (Imperial War Museum - Lives of the First World War)
 |Occupation|Seller; Nursing Sister|
 |Religion|Church of England (Anglican)|
 |Date of death|Dec 5th 1958|
-|Place of death||
-|Age at death||
-|Burial site||
+|Place of death|Quebec, QC|
+|Age at death|64 years-old|
+|Burial site|Mount Hermon, Plot 1804, https://findagrave.com/memorial/269803865/irene_may_fellows/|
 
 
 Daughter of **Alfred Grincell Fellows** and **Catherine Agnes Fellows** (nee Black); wife of **Charles Alexander Young** (Service No. 22822)
@@ -66,6 +66,8 @@ Casualty Clearing Services Command, Qc
 
 [Cascagnette 2024-08-29] Email Jayne Thompson, August 29th 2024.
 
+[Jeffrey-Hale 1946] 81st Annual Report of Jeffery Hale's Hospital and Training School for Nurses for 1946, p.42. URL: https://collections.banq.qc.ca/ark:/52327/bs3186679 
+
 IWM: https://livesofthefirstworldwar.iwm.org.uk/lifestory/5857947    
 Great War Project: https://canadiangreatwarproject.com/person.php?pid=87189
 
@@ -77,4 +79,13 @@ CEF Service file: https://www.ancestry.ca/discoveryui-content/view/1065783:61084
 Baptism Phyllis Alexandra: https://www.ancestry.ca/discoveryui-content/view/15613517:1091
 
 Record of service – Overseas Military Forces of Canada medical units   
+
 https://www.canada.ca/en/department-national-defence/services/military-history/history-heritage/official-military-history-lineages/ledgers/ww1-medical-units.html
+
+Histoire de Jeffrey-Hale:   
+https://www.ciusss-capitalenationale.gouv.qc.ca/jhsb/a-propos/notre-histoire  
+
+https://www.ville.quebec.qc.ca/en/citoyens/patrimoine/quartiers/saint_jean_baptiste/interet/ancien_hopital_jeffery_hale.aspx
+
+Gravesite:   
+https://www.findagrave.com/memorial/269803865/irene-may-fellows
