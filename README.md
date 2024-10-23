@@ -483,6 +483,9 @@ https://www.hkvca.ca/cforcedata/unitreport/index.php
 HKVCA Vault. Search by reg'l number     
 https://drive.google.com/drive/folders/1u0605cQjINZtg6Xp33LPBr4FxOQ1MOcJ
 
+The Royal Rifles of Canada, Force “C” Nominal Roll   
+https://wartimes.ca/forums/viewtopic.php?f=9&t=797&sid=5469bc06be06ca0e916ec02538621d87
+
 Hong Kong War Diary : a project that documents the 1941 defence of Hong Kong, the defenders, their families, and the fates of all until liberation.    
 http://hongkongwardiary.com/
 
