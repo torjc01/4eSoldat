@@ -34,7 +34,7 @@ no-delimiters - direct copy from a source text.
 |Father|[Alexander Young](./ayoung.md)|
 |Mother|Annie Buxton Young, née Gardiner|
 |Next of kin|Alexander Young, father, 24 St-Julia St, Quebec City, QC|
-|Occupation|Machinist, metalworking machine setter-operator|
+|Occupation|Machinist, metalworking machine setter-operator, CNR|
 |Religion|Methodist ([Chalmers Wesley United Church](https://chalmerswesley.org/), Quebe City, QC)|
 |Date of death|Oct 2nd 1963|
 |Place of death|Toronto, ON|
