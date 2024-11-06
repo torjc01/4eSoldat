@@ -53,6 +53,8 @@ CAMC Medical Depot No.5
 Casualty Clearing Services Command, Qc   
 
 
+Canadian nursing sisters, as they were called despite the lack of religious affiliations, were commissioned as lieutenants with equal pay to men of the same rank. This, along with the women's sharp blue uniforms, white aprons, CAMC buttons, and two stars on the shoulder straps, became the envy of their British peers. Their distinctive appearence, meanwhile, earned them the affectionate nickname, Bluebirds. [Bowers, 2024]
+
 
 # References 
 
