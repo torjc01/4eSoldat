@@ -379,19 +379,19 @@ Right Worshipful Brother Alexander Young was the Master of the Lodge for the yea
 ALBION 
 
 - Possibilité d'en discuter avec le T V Fr Arthur Ward - il était le VM de la loge lors du décès du Fr Young
-- Vérifier dans les archives les dates d'Initiation, passage et élévation du Fr Charles Young 
-- Checker s'il y a des faits saillants sur Fr Young dans les procès-verbaux de la secrétaire
-- Vérifier si l'on a une statistique de la proportion de frères qui sont militaires dans l'active, ou qui sont passés par les forces. 
+- [OK] Vérifier dans les archives les dates d'Initiation, passage et élévation du Fr Charles Young 
+- [OK] Checker s'il y a des faits saillants sur Fr Young dans les procès-verbaux de la secrétaire
+- [OK] Vérifier si l'on a une statistique de la proportion de frères qui sont militaires dans l'active, ou qui sont passés par les forces. Non, il n'y a pas. 
 - Vérifier les données du TVF William Grincell Fellows (oncle de l'épouse) - vénérable Maître d'Albion l'année 1908
 - Vérifier les données du Fr Alfred Grincell Fellows (Père de l'épouse)
 - Vérifier auprès des archives si les frères Alfred Fellows, bien comme le frère Charles, étaient des membres effectifs d'Albion ou d'autre loge
-- Demander le logo de la loge à Éric ou à Richard 
+- [OK] Demander le logo de la loge à Éric ou à Richard 
 
 OTHER TASKS
 
 - [OK] Vérifier si le Fr Harry Ralph Thompson (beau-fils - mari à Phylis) était membre de la loge - **Non, il était membre de la Riverdale Lodge #494, à l'Orient de Toronto.** 
 - Acheter un shooter extra pour faire cadeau à Jayne 
-- Check with Jayne des infos sur le service militaire de son père 
+- [OK] Check with Jayne des infos sur le service militaire de son père 
 - [OK] Écrire un résumé du drama des Fellows 
 - Faire recherche au registre foncier de la municipalité de Lac-St-Joseph pour retrouver le challet familial. 
 
@@ -413,8 +413,7 @@ OTHER TASKS
 
 [HKVAC 1980] Hong Kong Veteran’s Association of Canada. **The Royal Rifles of Canada in Hong Kong:1941-1945.** Progressive Publications, Sherbrooke, QC, 1980.
 
-[HSCMH 1941] Historical Section Canadian Military Headquarters. **Canadian participation in the Defence of Honk Kong, December, 1941.** Department of National Defense, Ottawa, 1946. 
-https://publications.gc.ca/collections/collection_2016/mdn-dnd/D63-4-163-1946-eng.pdf
+[HSCMH 1941] Historical Section Canadian Military Headquarters. **Canadian participation in the Defence of Honk Kong, December, 1941.** Department of National Defense, Ottawa, 1946. URL: https://publications.gc.ca/collections/collection_2016/mdn-dnd/D63-4-163-1946-eng.pdf
 
 [Jünger 1929] Jünger, E. **In Stahlgewittern: Aus dem Tagesbuch eines Stoßtruppführers.** Berlin: E S Mittler Sohn, 1929.
 
@@ -429,8 +428,7 @@ Canada’s Military in World War One.** Calgary, AB: Bunker to Bunker Books, 199
 
 [Penny 1962] Penny, A. G. **The Royal Rifles of Canada ’Able and Willing’ since 1862: A Short History.** Quebec City: Royal Rifles of Canada, 1962.
 
-[Pöhlmann 2017] Pöhlmann, Markus. "A Portrait of the Soldier as a Young Man: Ernst Jünger at
-Fresnoy, April 1917". Journal of Military and Strategic Studies, 18, no. 2 (2017): 105-117. https://jmss.org/article/download/58297/43850/158926
+[Pöhlmann 2017] Pöhlmann, Markus. "A Portrait of the Soldier as a Young Man: Ernst Jünger at Fresnoy, April 1917". Journal of Military and Strategic Studies, 18, no. 2 (2017): 105-117. URL: https://jmss.org/article/download/58297/43850/158926
 
 [Smith 1939] Smith, Pemberton. A research into Early Canadian Masonry 1759-1869. Montréal: Quality Press, 1939. 135 p. Copy: #197
 
@@ -438,7 +436,7 @@ Fresnoy, April 1917". Journal of Military and Strategic Studies, 18, no. 2 (2017
 
 [Storr 2020] Storr, Will. The Science of Storytelling. New York : Abrams, 2020. 
 
-[Wentzell 2021] Wentzell, Tyler. "Brigadier J.K. Lawson's Diary: October to December 1941".  Canadian Military History Journal, 20, no. 2 (2021): 3-4. https://scholars.wlu.ca/cgi/viewcontent.cgi?article=2070&context=cmh
+[Wentzell 2021] Wentzell, Tyler. "Brigadier J.K. Lawson's Diary: October to December 1941".  Canadian Military History Journal, 20, no. 2 (2021): 3-4. URL: https://scholars.wlu.ca/cgi/viewcontent.cgi?article=2070&context=cmh
 
 
 ## Official records
