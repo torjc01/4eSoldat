@@ -579,6 +579,33 @@ http://ibiblio.org/hyperwar/UN/UK/LondonGazette/38190.pdf
 Hong Kong Reinforced. British Pathé.   
 https://www.youtube.com/watch?v=ZWY3atYUFQU
 
+Battle of Hong Kong 1941 - Pacific War DOCUMENTARY (23:21)   
+https://www.youtube.com/watch?v=TrqlSSA2xUc
+
+
+The Battle of Hong Kong (21:21)   
+https://www.youtube.com/watch?v=c6ArrMfRvEs
+
+
+The Battle of Hong Kong (36:00)   
+https://www.youtube.com/watch?v=elmJHKrvs8U
+
+
+Battle of Hong Kong in 45 seconds using Google Earth (00:45)    
+https://www.youtube.com/watch?v=bl4Ir4iii2U
+
+
+Fall of Hong Kong (1941) (5:26)   
+https://www.youtube.com/watch?v=hzAo3oGX5To
+
+
+The Fall of Hong Kong | Narrated by Stephen J. Thorne (4:34)   
+https://www.youtube.com/watch?v=hbyWhjH8HEo
+
+
+The Fall of Hong Kong to Japan 1941 (11:49)   
+https://www.youtube.com/watch?v=y0ZNzHwKBkE
+
 ##  Acknowledgements / Remerciements  
 
 ### **Société de Généalogie de Québec**   
