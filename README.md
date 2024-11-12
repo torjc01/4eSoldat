@@ -436,6 +436,8 @@ Canada’s Military in World War One.** Calgary, AB: Bunker to Bunker Books, 199
 
 [Storr 2020] Storr, Will. The Science of Storytelling. New York : Abrams, 2020. 
 
+[Vincent 1981] Vincent, Carl. No reason why: The Canadian Hong Kong Tragedy - an examination. Stittsville (ON): Canada's Wings, 1981.  
+
 [Wentzell 2021] Wentzell, Tyler. "Brigadier J.K. Lawson's Diary: October to December 1941".  Canadian Military History Journal, 20, no. 2 (2021): 3-4. URL: https://scholars.wlu.ca/cgi/viewcontent.cgi?article=2070&context=cmh
 
 
