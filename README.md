@@ -43,15 +43,17 @@ no-delimiters - direct copy from a source text.
 
 [[[ 
 
+**Summary**
+
 Son of Major Alexander 'Alex' Young (52nd Battalion) and Annie Buxton Young (née Gardiner); husband of Nursing Sister Lieutenant Irene May Young (née Fellows).
 
-Before the Great War, he was a cadet and then a member of the Militia in Québec, serving within the ranks of the 8th Regiment.
+Before the Great War, he was a cadet and then a member of the Militia in Québec, serving within the ranks of the 8th Regiment. HE worked as a machinist at the Canadian National Railways (CNR). 
 
-At First World War, he served the Canadian Machine Gun Corps, firstly with a rank of Sergeant, then commissioned to Lieutenant, teaching Machine Gun usage and bayonet combat to the troops in England, before being dispatched to the French front.
+At First World War, among other units, he served mainly in the Canadian Machine Gun Corps, firstly with a rank of Sergeant, then commissioned to Lieutenant, teaching Machine Gun usage and bayonet combat to the troops in England, before being dispatched to the French front.
 
-After the Great War, he joined the Royal Rifles of Canada (RRC) and rose through the ranks to become Lieutenant-Colonel and commanding officer of the regiment in 1934.
+After the Great War, he joined the permanent armed forces under the Royal Rifles of Canada (RRC) and rose through the ranks to become Lieutenant-Colonel and commanding officer of the regiment in 1929.
 
-At Second World War, by the end of 1941, he is sent with the Royal Rifles to improve the defense of the colony of Hong Kong. This was a request from the British War Cabinet that Canada complied. On Dec 8th 1941, the day after Pearl Harbor attack, the Japanese attacked the colony. The defenders, British, Indian, Hong Kong volunteers and Canadians, put up a defense and were able to resist up to the 24th. On Christmas day, seeing that further resistance would be futile, the governor ordered all troops to surrender and avoid further life loss.
+At Second World War, by the end of 1941, he is sent with the Royal Rifles to improve the defense of the colony of Hong Kong. This was a request from the British War Cabinet that Canada complied to. On Dec 8th 1941, the day after Pearl Harbor attack, the Japanese attacked the colony. The defenders, British, Indian, Hong Kong volunteers and Canadians, put up a defense and were able to resist up to the 24th. On Christmas day, seeing that further resistance would be futile, the governor ordered all troops to surrender and avoid further life loss.
 
 Brother Charles was captured after the end of the battle, on Dec 28th. He was the last to surrender command. He and his last troops were then captured. He was sent to the prisoner camp system, inside which he would spend the rest of the war, up to September 1945.
 
@@ -399,17 +401,17 @@ OTHER TASKS
 
 
 ## Bibliography
-[Booth 2016] Booth, Wayne C. The Craft of Research. 4e ed. Chicago : University of Chicago Press, 2016.
+[Booth 2016] Booth, Wayne C. **The Craft of Research.** 4e ed. Chicago : University of Chicago Press, 2016.
 
 [Castonguay 1987a] Castonguay, J. **Les Voltigeurs de Québec: Premier régiment canadien-français, Vol. 1.** Quebec: Voltigeurs de Québec, 1987.
 
 [Castonguay 1987b] Castonguay, J. **Les Voltigeurs de Québec: Premier régiment canadien-français, Vol. 2.** Quebec: Voltigeurs de Québec, 1987.
 
-[Flanagan 2017] Flanagan, Andy. The Endless Battle : The Fall of Hong Kong and Canadian POWs in Imperial Japan. Fredericton (NB) : Goose Lane Editions, 2017. 
+[Flanagan 2017] Flanagan, Andy. **The Endless Battle : The Fall of Hong Kong and Canadian POWs in Imperial Japan.** Fredericton (NB) : Goose Lane Editions, 2017. 
 
 [Grafton 1938] Lt Col C. S. Grafton. **The Canadian ’Emma Gees’: A History of the Canadian Machine Gun Corps.** Uckfield, UK: The Naval and Military Press, 1938.
 
-[Graham 1892] Graham, J. H. Outlines of the History of Freemasonry in the Province of Quebec. Montréal: John Lovell & Son, 1892. 645 p.
+[Graham 1892] Graham, J. H. **Outlines of the History of Freemasonry in the Province of Quebec.** Montréal: John Lovell & Son, 1892. 645 p.
 
 [HKVAC 1980] Hong Kong Veteran’s Association of Canada. **The Royal Rifles of Canada in Hong Kong:1941-1945.** Progressive Publications, Sherbrooke, QC, 1980.
 
@@ -417,28 +419,27 @@ OTHER TASKS
 
 [Jünger 1929] Jünger, E. **In Stahlgewittern: Aus dem Tagesbuch eines Stoßtruppführers.** Berlin: E S Mittler Sohn, 1929.
 
-[Lodge of Antiquity 1906] Lodge of Antiquity. By-Laws of The Lodge of Antiquity Ancient Free and Accepted Masons: Being Number One on the Registry of the Most Worshipful The Grand Lodge of Ancient Free and Accepted Masons of Quebec. Montreal: Self published, 1906, 17 p.
+[Lodge of Antiquity 1906] **Lodge of Antiquity. By-Laws of The Lodge of Antiquity Ancient Free and Accepted Masons: Being Number One on the Registry of the Most Worshipful The Grand Lodge of Ancient Free and Accepted Masons of Quebec.** Montreal: Self published, 1906, 17 p.
 
-[Love 1999] Love, D. W. **A Call to Arms: The Organization and Administration of
-Canada’s Military in World War One.** Calgary, AB: Bunker to Bunker Books, 1999.
+[Love 1999] Love, D. W. **A Call to Arms: The Organization and Administration of Canada’s Military in World War One.** Calgary, AB: Bunker to Bunker Books, 1999.
 
-[Miller 1993] Miller, C. Painting the Map Red: Canada and the South African War 1899-1902. Montreal: Canadian War Museum, 1993. 541 p.
+[Miller 1993] Miller, C. **Painting the Map Red: Canada and the South African War 1899-1902.** Montreal: Canadian War Museum, 1993. 541 p.
 
-[Nevinson 1963] Nevinson, Harry M. History of the Lodge of Antiquity. Montreal: Self published, 1963, 52, 120.
+[Nevinson 1963] Nevinson, Harry M. **History of the Lodge of Antiquity.** Montreal: Self published, 1963, 52, 120.
 
 [Penny 1962] Penny, A. G. **The Royal Rifles of Canada ’Able and Willing’ since 1862: A Short History.** Quebec City: Royal Rifles of Canada, 1962.
 
-[Pöhlmann 2017] Pöhlmann, Markus. "A Portrait of the Soldier as a Young Man: Ernst Jünger at Fresnoy, April 1917". Journal of Military and Strategic Studies, 18, no. 2 (2017): 105-117. URL: https://jmss.org/article/download/58297/43850/158926
+[Pöhlmann 2017] Pöhlmann, Markus. **"A Portrait of the Soldier as a Young Man: Ernst Jünger at Fresnoy, April 1917".** Journal of Military and Strategic Studies, 18, no. 2 (2017): 105-117. URL: https://jmss.org/article/download/58297/43850/158926
 
-[Smith 1939] Smith, Pemberton. A research into Early Canadian Masonry 1759-1869. Montréal: Quality Press, 1939. 135 p. Copy: #197
+[Smith 1939] Smith, Pemberton. **A research into Early Canadian Masonry 1759-1869.** Montréal: Quality Press, 1939. 135 p. Copy: #197
 
-[Smith 2024] Smith, F. Des Québécois en Normandie: Du jour J à la libération de Paris. Montréal: Boréal, 2024.
+[Smith 2024] Smith, F. **Des Québécois en Normandie: Du jour J à la libération de Paris.** Montréal: Boréal, 2024.
 
-[Storr 2020] Storr, Will. The Science of Storytelling. New York : Abrams, 2020. 
+[Storr 2020] Storr, Will. **The Science of Storytelling.** New York : Abrams, 2020. 
 
-[Vincent 1981] Vincent, Carl. No reason why: The Canadian Hong Kong Tragedy - an examination. Stittsville (ON): Canada's Wings, 1981.  
+[Vincent 1981] Vincent, Carl. **No reason why: The Canadian Hong Kong Tragedy - an examination.** Stittsville (ON): Canada's Wings, 1981.  
 
-[Wentzell 2021] Wentzell, Tyler. "Brigadier J.K. Lawson's Diary: October to December 1941".  Canadian Military History Journal, 20, no. 2 (2021): 3-4. URL: https://scholars.wlu.ca/cgi/viewcontent.cgi?article=2070&context=cmh
+[Wentzell 2021] Wentzell, Tyler. **"Brigadier J.K. Lawson's Diary: October to December 1941".**  Canadian Military History Journal, 20, no. 2 (2021): 3-4. URL: https://scholars.wlu.ca/cgi/viewcontent.cgi?article=2070&context=cmh
 
 
 ## Official records
