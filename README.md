@@ -423,11 +423,15 @@ OTHER TASKS
 
 [Love 1999] Love, D. W. **A Call to Arms: The Organization and Administration of Canada’s Military in World War One.** Calgary, AB: Bunker to Bunker Books, 1999.
 
+[MacDonell 2002] MacDonell, George S. **One Soldier’s Story 1939-1945 : From the Fall of Hong Kong to the Defeat of Japan.*** Toronto : Dundurn Press, 2002. 
+
 [Miller 1993] Miller, C. **Painting the Map Red: Canada and the South African War 1899-1902.** Montreal: Canadian War Museum, 1993. 541 p.
 
 [Nevinson 1963] Nevinson, Harry M. **History of the Lodge of Antiquity.** Montreal: Self published, 1963, 52, 120.
 
 [Penny 1962] Penny, A. G. **The Royal Rifles of Canada ’Able and Willing’ since 1862: A Short History.** Quebec City: Royal Rifles of Canada, 1962.
+
+[Pfeifer 2024] Pfeifer, Alexander, and Cross, Philipp. **The Other Trench: The WW1 diary snf photosof a German officer.** Manchester: The Perspective Press, 2024.  
 
 [Pöhlmann 2017] Pöhlmann, Markus. **"A Portrait of the Soldier as a Young Man: Ernst Jünger at Fresnoy, April 1917".** Journal of Military and Strategic Studies, 18, no. 2 (2017): 105-117. URL: https://jmss.org/article/download/58297/43850/158926
 
@@ -546,6 +550,9 @@ https://numerique.banq.qc.ca/patrimoine/details/52327/3611081
 
 [QcChronicle 1916-06-12] The Quebec chronicle, 1916-06-12, Collections de BAnQ. METHODIST CHURCH MEMORIAL SERVICE.    
 https://numerique.banq.qc.ca/patrimoine/details/52327/3611084 
+
+[QcChronicle 1919-02-24] Quebec Chronicle, 1919-02-24, Collections de BAnQ. Another Quebec Boy Decorated. Capt. W. A. Fellows awarded military cross for conspicuous bravery and leadership. {WA Fellows, Military Cross}
+https://numerique.banq.qc.ca/patrimoine/details/52327/3611940?docsearchtext=william%20fellows
 
 [QcChronicle 1923-11-10] The Quebec chronicle, 1923-11-10, Collections de BAnQ. Dance at Drill Hall.   
 https://numerique.banq.qc.ca/patrimoine/details/52327/3613413

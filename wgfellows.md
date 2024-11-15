@@ -136,7 +136,7 @@ The many military and civilian friends of Major Fellows will wish him a long lif
 
 In the Masonic Order he has had the distinction of being Past-Master of the two oldest lodges in Canada, Antiquity No.1 of Montreal (Lodge of Antiquity 1906, p. 17)[^1] [Nevinson 1963, pp. 52, 120][^2] and Albion No.2 (Summons)[^3], of Quebec, both of which are under the Grand Registry of Quebec. In addition he has been honoured by his brethren in the Order by being elected to the important position of District Grand Master of Quebec and Three Rivers.
 
-- Worshipful Master of The Lodge of Antiquity, #1, Montréal, Québec, year 1899. [^1], [^2]
+- Worshipful Master of The Lodge of Antiquity, #1, Montréal, Québec, years 1898 and 1899. [^1], [^2]
 
 - Worshipful Master of Albion Lodge #2, Québec, Québec, year 1908. [^3]
 
