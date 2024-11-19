@@ -26,6 +26,11 @@ Legend
 no-delimiters - direct copy from a source text.
 ```
 
+### Summary 
+
+Charles Alexander a servi pendant la Première et la Seconde Guerre mondiale. Au cours de la Première Guerre mondiale, il a reçu la Croix militaire ainsi que d'autres décorations. En 1920 il est initié en franc-maçonnerie à la Loge Albion No. 2, la même qui a été déjà dirigée par son père et son oncle quelques années auparavant.  Dans les années 1930, il est le commandant des Royal Rifles of Canada. Il est revenu volontairement au grade de major en 1940 afin de réintégrer son ancien régiment. Le régiment a été envoyé à Hong Kong en octobre 1941 et le major Charles Alexander a été fait prisonnier de guerre par les Japonais peu après la capitulation de Hong Kong le jour de Noël 1941. Il a survécu à l'épreuve de près de quatre ans de camp de prisonniers et il est rentré au Canada à la fin de l'année 1945. Il est décédé en 1963, en grande partie à cause du traitement qu'il a subi aux mains de l'armée japonaise.
+
+
 ||CIVIL DATA|
 |---|---|
 |Name|[Charles Alexander Young](https://www.ancestry.ca/family-tree/person/tree/197335275/person/332580256962/facts)|
