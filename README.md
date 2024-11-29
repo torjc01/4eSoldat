@@ -227,12 +227,12 @@ Commanding officer of the "A" Coy, 1st Btn RRC
 <b>Liste des camps de prisonniers et les dates d'internement et de sortie</b> 
 
 
-|Camp ID 	|Camp Name 	|Location  	|Arrival Date 	|Departure Date|
-|---|----|----|---|---|
-|HK-NP-01	|North Point	|North Point, Hong Kong Island|   41 Dec 30	|42 Sep 26|
-|HK-SA-02	|Shamshuipo	    |Kowloon, Hong Kong|              42 Sep 26	|43 Aug 19|
-|HK-AS-02	|Argyle Street	|Kowloon, Hong Kong|        	  43 Aug 19 |44 May 11|
-|HK-SA-02	|Shamshuipo	    |Kowloon, Hong Kong|      	      44 May 11	|45 Sep 10|
+|Camp ID 	|Camp Name    	|Location                   	|Arrival Date |Departure Date |
+|---------|---------------|-----------------------------|-------------|---------------|
+|HK-NP-01	|North Point	  |North Point, Hong Kong Island|   41 Dec 30	|     42 Sep 26 |
+|HK-SA-02	|Shamshuipo	    |Kowloon, Hong Kong           |   42 Sep 26	|     43 Aug 19 |
+|HK-AS-02	|Argyle Street	|Kowloon, Hong Kong           |	  43 Aug 19 |     44 May 11 |
+|HK-SA-02	|Shamshuipo	    |Kowloon, Hong Kong           |   44 May 11	|     45 Sep 10 |
 
 <img src="./images/cayoung/POWBarracks.jpg" width="600" />
 
@@ -274,8 +274,6 @@ Brother Charles kept a diary throughout the captivity period where he and other 
 <img src="./images/cayoung/Lt-ColCharlesYoungPostWar.jpg" height="600" />
 
 **Lt-Col Charles Alexander Young, in the years after the war. Source: family photo.**
-
-
 
 ### Obituaries 
 
@@ -365,21 +363,21 @@ Right Worshipful Brother Alexander Young was the Master of the Lodge for the yea
 
 <img src="./images/common/pastMasters.png" />
 
-**Past-Masters de la Loge Albion, débuts 20 siécle. Source: convocations de la Loge**
+**Past-Masters de la Loge Albion, débuts 20 siécle. Source: convocations de la Loge Albion No.2.**
 
 # Memorabilia
 
 <img src="./images/cayoung/MedalsCharlesAYoung.jpeg" />
 
-**Médailles du Lt-Col Charles A Young. Source: family photo**
+**Médailles du Lt-Col Charles A Young. Source: family photo.**
 
 <img src="./images/cayoung/Coronation.jpeg" />
 
-**Souvenirs de la présence à la Coronation de la Reine Elizabeth II, à l'Abbaie de Westminster, le 2 juin 1953. Source: family photo**
+**Souvenirs de la présence à la Coronation de la Reine Elizabeth II, à l'Abbaie de Westminster, le 2 juin 1953. Source: family photo.**
 
 <img src="./images/cayoung/platAlbion.jpg" />
 
-**Plat commemoratif des 175 ans de la loge Albion donné au Fr Charles Alexander Young. Source: family photo**
+**Plat commemoratif des 175 ans de la loge Albion donné au Fr Charles Alexander Young. Source: family photo.**
 
 # TODO
 
