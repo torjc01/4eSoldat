@@ -52,9 +52,9 @@ Charles Alexander a servi pendant la Première et la Seconde Guerre mondiale. Au
 
 Son of Major Alexander 'Alex' Young (52nd Battalion) and Annie Buxton Young (née Gardiner); husband of Nursing Sister Lieutenant Irene May Young (née Fellows).
 
-Before the Great War, he was a cadet and then a member of the Militia in Québec, serving within the ranks of the 8th Regiment. HE worked as a machinist at the Canadian National Railways (CNR). 
+Before the Great War, he was a cadet and then a member of the Militia in Québec, serving within the ranks of the 8th Regiment. He worked as a machinist at the Canadian National Railways (CNR). 
 
-At First World War, among other units, he served mainly in the Canadian Machine Gun Corps, firstly with a rank of Sergeant, then commissioned to Lieutenant, teaching Machine Gun usage and bayonet combat to the troops in England, before being dispatched to the French front.
+At First World War, among other units, he served mainly in the Canadian Machine Gun Corps, firstly with a rank of Sergeant, teaching Machine Gun usage and bayonet combat to the troops in England, before being dispatched to the French front. After the battle of Vimy Ridge he was commissioned Lieutenant.
 
 After the Great War, he joined the permanent armed forces under the Royal Rifles of Canada (RRC) and rose through the ranks to become Lieutenant-Colonel and commanding officer of the regiment in 1929.
 
