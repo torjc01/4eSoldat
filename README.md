@@ -520,6 +520,10 @@ ANAVETS - The Army, Navy and Air Force Association
 Association dont fr Charles a été le président pendant l'année 1953   
 https://www.anavets.ca
 
+Ross Rifle    
+Le rifle utilisé par les cadets pour entrainement. Aussi rifle polemique qui a fait des malheureux pendant la première Guerre.    
+https://web.archive.org/web/20050207190759/http://www.world.guns.ru/rifle/rfl24-e.htm
+
 
 ## Newspapers clippings
 
