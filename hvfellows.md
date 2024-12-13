@@ -14,7 +14,7 @@
 
 <!-- FIN ENTETE -->
 
-# **Harold Victor Fellows **
+# **Harold Victor Fellows**
 
 ||CIVIL DATA|
 |---|---|

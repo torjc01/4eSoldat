@@ -275,6 +275,14 @@ Brother Charles kept a diary throughout the captivity period where he and other 
 
 **Lt-Col Charles Alexander Young, in the years after the war. Source: family photo.**
 
+
+## Medical History during imprisonment 
+1. Dengue, 1942
+2. Wet and dry Beri-beri, 1942-1945. Subsiding. 
+3. Malaria, once in 1945. 
+4. Weight loss, -35 lbs at liberation.
+5. Defective vision afterwards. 
+
 ### Obituaries 
 
 **Obituary and Albion's Invitation  Chronicle, 1963-10-03, p. 12**[^Obt1]   
@@ -374,6 +382,25 @@ Right Worshipful Brother Alexander Young was the Master of the Lodge for the yea
 
 **Médailles du Lt-Col Charles A Young. Source: family photo.**
 
+|||
+|---|---|
+||Médailles ou décoration |
+|1|British Military Cross (MC) |
+|2|1914-1918 George V |
+|3|1914-1918 War for Civilization |
+|4|Coronation Medal George V 1911 |
+|5|Jubilee Medal George V 1935 |
+|6|The 1939-1945 Star |
+|7|The Pacific Star |
+|8|Voluntary Service 1945 |
+|9|1939-1945 George VI |
+|10|Coronation Medal George VI 1937 |
+|11|Coronation Medal Elizabeth II |
+|12|Colonial Auxiliary Forces Officers Decoration (VD) |
+|13|Colonial Auxiliary Forces Long Service Medal |
+
+
+
 <img src="./images/cayoung/Coronation.jpeg" />
 
 **Souvenirs de la présence à la Coronation de la Reine Elizabeth II, à l'Abbaie de Westminster, le 2 juin 1953. Source: family photo.**
@@ -413,6 +440,8 @@ OTHER TASKS
 - [OK] Check with Jayne des infos sur le service militaire de son père 
 - [OK] Écrire un résumé du drama des Fellows 
 - Faire recherche au registre foncier de la municipalité de Lac-St-Joseph pour retrouver le challet familial. 
+- annuaires telephoniques: achar número de telefone e endereços
+- Poser la question aux architectes de la loge: comment retacer la toponymie ancienne de la ville de Québec? 
 
 # References 
 
