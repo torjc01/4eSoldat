@@ -67,6 +67,46 @@ He was Received into the Brotherhood on April 9, 1965 at the <a href="http://www
 
 **Visitors signing Bible of Harry R Thompson. Source: photo familliale.**
 
+
+## HMCS Nootka 
+
+Chief Petty Officer Thompson served in the HMCS Nootka in its tours of duty in the Korean theatre of war. 
+
+<img src="images/hrthompson/nootka-213.jpg" width="600" />
+
+|||
+|---|---|
+|Ship's name | HMCS Nootka (R96 / 213)|
+|Displacement | 1958 tonnes |
+|Dimensions| 114.9 x 11.4 x 3.4 m|
+|Speed | 36 knots |
+|Crew | 259 |
+|Battle Honors| Korea 1951 / 1952|
+|Motto | *"Tikegh Mmook Solleks (Ready to fight)"*| 
+
+- Tribal class destroyer 
+- Named after a first nation tribe.
+- Commissioned on Aug 7, 1946, at Halifax, NS. 
+- Converted to destroyer escort in 1949. 
+- Korean duty - transited the Panama Canal for first of two tours of duty in the Korean theatre of war. 
+- Second Canadian ship to circumnavigate the globe.
+- After war resumed its original training duties. 
+- Paid off at Halifax , Feb 6, 1964.  
+- Broken up in Faslane, Scotland, in 1965. 
+
+
+
+<img src="images/hrthompson/nootka-badge.jpg" width="400" />
+
+
+**Refs:** 
+
+(“HMCS NOOTKA R96 / 213,” n.d.)
+
+(Royal Canadian Navy, n.d.)
+
+
+
 ## **His Wife: Phylis Alexandra Thompson née Young**   
 Phyllis Alexandra Thompson, née Young   
 January 10th, 1931, Quebec City, QC — April 5th, 2020 Scarborough, ON
@@ -82,4 +122,8 @@ https://www.flickr.com/photos/21728045@N08/albums/
 https://www.facebook.com/watch/?v=1072797941153028
 
 
-HMCS Nootka: http://www.forposterityssake.ca/Navy/HMCS_NOOTKA_R96_213.htm
+
+“HMCS NOOTKA R96 / 213.” n.d. For Posterity’s Sake - A ROyal Canadian Navy Historical Project. Accessed December 12, 2024. http://www.forposterityssake.ca/Navy/HMCS_NOOTKA_R96_213.htm.
+
+
+Royal Canadian Navy. n.d. “HMCS Nootka.” Ships’ Histories - HMCS Nootka. Accessed December 12, 2024. https://www.canada.ca/en/navy/services/history/ships-histories/nootka.html.

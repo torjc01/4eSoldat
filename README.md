@@ -353,6 +353,9 @@ His sister, Florence May Young was a Nursing Sister in the war, decorated with t
 
 [His son-in-law: Fr Harry Ralph Thompson](./hrthompson.md)
 
+[His cousin-in-law: Lt Harold Victor Fellows](./hvfellows.md)
+
+
 
 ## Membres de la famille ayant étés Vénérable Maîtres d'Albion
 
@@ -378,6 +381,17 @@ Right Worshipful Brother Alexander Young was the Master of the Lodge for the yea
 <img src="./images/cayoung/platAlbion.jpg" />
 
 **Plat commemoratif des 175 ans de la loge Albion donné au Fr Charles Alexander Young. Source: family photo.**
+
+## Rifle cadet corps 
+
+|||
+|---|---|
+|Rifle Name| Ross Mark II Rifle |
+|Caliber| .303 British (7.7x56R mm)|
+|Action| Bolt, straight pull|
+|Barrel length| 711 mm|
+|Weight| 3.9kg|
+|Magazine capacity| 5 rounds|
 
 # TODO
 
@@ -526,7 +540,6 @@ https://web.archive.org/web/20050207190759/http://www.world.guns.ru/rifle/rfl24-
 
 
 ## Newspapers clippings
-
 
 [Evenement 1905-10-27] L'événement, 1905-10-27, Collections de BAnQ. Nouvelles Sport: Concours d'hier-Sts resultats, Association de tir de Quebec.    
 https://numerique.banq.qc.ca/patrimoine/details/52327/4578767
