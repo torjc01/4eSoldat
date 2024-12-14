@@ -202,13 +202,13 @@ Commanding officer of the "A" Coy, 1st Btn RRC
 
 **Transportation** 
 
-- Travelled from the East Coast {{ probably from Québec City }} across Canada by CNR troop train
+- Travelled from the East Coast, departure from Valcartier Base, across Canada by CNR troop train. 
 - Reinforcements en route:
   - Valcartier, Montreal, Ottawa, Armstrong (ON), Capreal(ON), Winnipeg, Melville(SK), Saskatoon, Edmonton, Jasper and Vancouver
 - Arrived at Vancouver on Oct 27th at 0800 hrs
 - All troops embarked on the ships AWATEA and PRINCE ROBERT.
-- C Coy of RRC was on PRINCE ROBERT, everyone else on the AWATEA.
-- Sailed from Vancouver Oct 27th
+- C Coy of RRC was on PRINCE ROBERT, everyone else on the AWATEA (New Zealand Liner).
+- Sailed off from Vancouver Oct 27th
 - Arrived in HK on Nov 16th, after brief stops at Honolulu and Manila.
 - Equipment embarked on DON JOSE, which would never reach HK; diverted to Manila after the beginning of hostilities.
 - On arrival, troops were qurtered at Nanking barracks, Sham Shui Po Camp, in Kowloon.

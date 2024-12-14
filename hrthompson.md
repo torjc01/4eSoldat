@@ -77,6 +77,9 @@ Chief Petty Officer Thompson served in the HMCS Nootka in its tours of duty in t
 |||
 |---|---|
 |Ship's name | HMCS Nootka (R96 / 213)|
+|Class | Tribal class destroyer|
+|Commission| Aug 7, 1946. Halifax, NS|
+|Dismantlement| 1965, Faslane, Scotland|
 |Displacement | 1958 tonnes |
 |Dimensions| 114.9 x 11.4 x 3.4 m|
 |Speed | 36 knots |
@@ -84,7 +87,6 @@ Chief Petty Officer Thompson served in the HMCS Nootka in its tours of duty in t
 |Battle Honors| Korea 1951 / 1952|
 |Motto | *"Tikegh Mmook Solleks (Ready to fight)"*| 
 
-- Tribal class destroyer 
 - Named after a first nation tribe.
 - Commissioned on Aug 7, 1946, at Halifax, NS. 
 - Converted to destroyer escort in 1949. 
