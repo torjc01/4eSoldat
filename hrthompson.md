@@ -21,15 +21,15 @@
 |Name|Harry Ralph Thompson|
 |Date of birth|April 22,1929|
 |Place of birth|Rosemont, Montréal|
-|Father|william Thompson|
+|Father|William Thompson|
 |Mother|Mathilda Thompson, née Erskine|
 |Next of kin||
 |Occupation|Navy Military|
 |Religion||
-|Date of death||
-|Place of death||
-|Age at death||
-|Burial site||
+|Date of death|November 9, 1998|
+|Place of death|Elliot Lake, Ont|
+|Age at death|69 years-old|
+|Burial site|Etobicoke, Ont|
 
 Harry Ralph Thompson was born April 22,1929 to William and Matilda (nee Erskine) Thompson in Rosemount, Montreal.  He was the youngest of 5 children.  His oldest brother Jack was killed in WWII and his name in inscribed in the Book of Remembrance in Ottawa. His two other brothers both served, Ronald in the Air Force and Douglas in the Navy.  Having only a Grade 6 education did not leave much room for employment so he worked as a milkman before signing up for the Navy even altering his birth certificate to sign up earlier than what was allowed.  He trained at Cornwallis and enrolled in the diver program.  He served mostly on the HMCS Nootka as both Hard Hat Diver and Frogman.  He saw action in Korea during the Korean War.  
 
