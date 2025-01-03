@@ -45,7 +45,7 @@
 ## Consolidated PBY-5/A Catalina 
 
 
-||CIVIL DATA|
+||DADOS TÉCNICOS|
 |---|---|
 |Motor|2 Pratt&Whitney R-1830-92 radial, 14 cilindros, 1200 HP|
 |Envergadura|31.96 m |
@@ -63,7 +63,7 @@
 - 1 metralhadora Browning M2 de .30 pol no alçapão ventral;
 - até 907 kg em bombas, torpedos ou cargas de profundidade, carregadas sob as asas.|
 
-
+Fonte: **História da Força Aérea Brasileira - Consolidated Catalina**
 
 
 # References 
