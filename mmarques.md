@@ -4,14 +4,6 @@
 
 ---
 
-<div>
-    <a target="_blank" href="https://franc-maconnerie.ca">
-      <img src="./images/common/logo.png" alt="Julio Torres Freemasonry" width="300"/>
-    </a>
-</div>
-
---- 
-
 <!-- FIN ENTETE -->
 
 
