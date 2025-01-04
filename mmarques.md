@@ -24,6 +24,14 @@
 |Age at death||
 |Burial site||
 
+## Contextualização
+
+- Começo da SGG;
+- Ação das marinhas alemã e italiana nas costas da América do Sul;
+- Afundamento de navios mercantes brasileiros por submarinos do eixo;
+- Patrulhamento aereo;
+
+## Family Lore 
 - Mecânico de vôo
     - Campo dos Afonsos, Marechal Hermes 
 
