@@ -68,6 +68,12 @@ Fonte: **História da Força Aérea Brasileira - Consolidated Catalina**
 
 [Museu Aeroespacial - Aeronave "Catalina" agora é patrimônio histórico nacional](https://www2.fab.mil.br/musal/index.php/slideshow/1059-aeronave-catalina-agora-e-patrimonio-historico-nacional)
 
+[Sentando a pua!](http://www.sentandoapua.com.br/portal3/) - História da Aviação militar no Brasil
+
+[Censo da FEB](https://www.casadafeb.com/censo-da-feb)
+
+[Banco de dados da FEB](https://bancodedadosfeb.com.br)
+
 ## Family Lore 
 
 - Tio ... ? 
