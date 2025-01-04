@@ -29,7 +29,7 @@
 - Começo da SGG;
 - Ação das marinhas alemã e italiana nas costas da América do Sul;
 - Afundamento de navios mercantes brasileiros por submarinos do eixo;
-- Patrulhamento aereo;
+- Patrulhamento aéreo;
 
 ## Family Lore 
 - Mecânico de vôo
