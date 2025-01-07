@@ -85,3 +85,13 @@ Fonte: **História da Força Aérea Brasileira - Consolidated Catalina**
 ## Family Lore 
 
 - Tio ... ? 
+
+
+# Redaction 
+
+**A Avição de patrulha no Brasil**
+
+Defesa da costa (ou litoral), composta por elementos do Exército Brasileiro, da Força Aérea, as forças navais - militares da Marinha de Guerra e tripulantes da Marinha Mercante - permaneceram 
+guarnecendo o território nacional, particularmente o litoral nordestino e as ilhas oceânicas , que garantiram o transporte e o comércio a níveis local e mundial, e combateram submarinos inimigos. 
+
+
