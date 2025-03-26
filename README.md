@@ -40,7 +40,7 @@ Charles Alexander a servi pendant la Première et la Seconde Guerre mondiale. Au
 |Mother|Annie Buxton Young, née Gardiner|
 |Next of kin|Alexander Young, father, 24 St-Julia St, Quebec City, QC|
 |Occupation|Machinist, metalworking machine setter-operator, CNR|
-|Religion|Methodist ([Chalmers Wesley United Church](https://chalmerswesley.org/), Quebe City, QC)|
+|Religion|Methodist ([Chalmers Wesley United Church](https://chalmerswesley.org/), Quebec City, QC)|
 |Date of death|Oct 2nd 1963|
 |Place of death|Toronto, ON|
 |Age at death|67 y-o|
