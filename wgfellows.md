@@ -146,7 +146,7 @@ We can find him listed as Senior Warden of Albion Lodge on the "Annuaires de la 
 
 Frère de sang, d’armes et de franc-maçonnerie d’[Alfred Grincell Fellows](./agfellows.md). 
 
-Frère d’armes et de franc-maçonnerie d’[Alex Young](./ayoung.md) et de [Charles A Young](./4thSoldier.md). 
+Frère d’armes et de franc-maçonnerie d’[Alex Young](./ayoung.md) et de [Charles A Young](./README.md). 
 
 
 <img src="./images/common/pastMasters.png" />
