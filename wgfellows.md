@@ -134,13 +134,20 @@ The many military and civilian friends of Major Fellows will wish him a long lif
 
 ## Masonic Life
 
-In the Masonic Order he has had the distinction of being Past-Master of the two oldest lodges in Canada, Antiquity No.1 of Montreal (Lodge of Antiquity 1906, p. 17)[^1] [Nevinson 1963, pp. 52, 120][^2] and Albion No.2 (Summons)[^3], of Quebec, both of which are under the Grand Registry of Quebec. In addition he has been honoured by his brethren in the Order by being elected to the important position of District Grand Master of Quebec and Three Rivers.
+In the Masonic Order he has had the distinction of being Past-Master of the two oldest lodges in Canada, Antiquity No.1 of Montreal (Lodge of Antiquity 1906, p. 17)[^1] [Nevinson 1963, pp. 52, 120][^2] and Albion No.2 (Summons)[^3], of Quebec, both of which are under the Grand Registry of Quebec. In addition he has been honoured by his brethren in the Order by being elected to the important position of Deputy District Grand Master of Quebec and Three Rivers.
+
+Affilié à Albion le 3 déc 1906, à l’âge de 40 ans, numéro membre #201 (juste avant Alex Young). Installé VM d’Albion le 27/12/1907.  
 
 - Worshipful Master of The Lodge of Antiquity, #1, Montréal, Québec, years 1898 and 1899. [^1], [^2]
 
 - Worshipful Master of Albion Lodge #2, Québec, Québec, year 1908. [^3]
 
 We can find him listed as Senior Warden of Albion Lodge on the "Annuaires de la ville de Québec", p.75.[^4]
+
+Frère de sang, d’armes et de franc-maçonnerie d’[Alfred Grincell Fellows](./agfellows.md). 
+
+Frère d’armes et de franc-maçonnerie d’[Alex Young](./ayoung.md) et de [Charles A Young](./4thSoldier.md). 
+
 
 <img src="./images/common/pastMasters.png" />
 
@@ -153,7 +160,7 @@ We can find him listed as Senior Warden of Albion Lodge on the "Annuaires de la 
 
 <img src="./images/wgfellows/wgFellows-obirtuary.png" />
 
-**Source: La Presse, 19 sept 1947**
+**Source: La Presse, 19 sept 1947, Collections de BAnQ.**
 
 ## Headstone 
 
@@ -189,20 +196,38 @@ https://canadiangreatwarproject.com/person.php?pid=962599
 
 ## Newspapers clippings 
 
-The daily witness, 1904-04-20, Collections de BAnQ. A military Promotion - W G Fellows.
+Quebec morning chronicle, 1897-02-08, Collections de BAnQ.Wm. Fellows and Deaths: Catherine Black; A sad bereavement.    
+https://numerique.banq.qc.ca/patrimoine/details/52327/3616344?docsearchtext=major%20fellows
+
+The daily witness, 1903-12-21, Collections de BAnQ.Sergeant-Major Fellowes of the RCA receives a testimonial.    
+https://numerique.banq.qc.ca/patrimoine/details/52327/4704013?docsearchtext=major%20fellows
+
+The daily witness, 20 avril 1904, Collections de BAnQ. A military Promotion - W G Fellows.   
 https://numerique.banq.qc.ca/patrimoine/details/52327/4704113?docsearchtext=william%20fellows
 
-
-The Canada Gazette. Ottawa, Saturday, Jan 4th, 1908. Promotions William Grincell Fellows.    
+The Canada Gazette. Ottawa, Saturday, 4 janvier 1908. Promotions William Grincell Fellows.    
 https://books.google.ca/books?id=ICU-AQAAMAAJ&lpg=PA1923&ots=fSxzPNBJfE&dq=%22william%20grincell%20fellows%22&hl=pt-BR&pg=PA1701#v=onepage&q&f=false
 
-The Quebec chronicle, 1918-09-27, Collections de BAnQ. Departure of a popular officer.   
+The Quebec chronicle, 1918-06-05, Collections de BAnQ.Presentation to Major M.G. Fellows.  Quebec Fraternal Club.     
+https://numerique.banq.qc.ca/patrimoine/details/52327/3611712?docsearchtext=major%20fellows
+
+The Quebec chronicle, 27 september 1918, Collections de BAnQ. Departure of a popular officer.   
 https://numerique.banq.qc.ca/patrimoine/details/52327/3611812?docsearchtext=william%20fellows
 
-The Quebec chronicle, 1921-10-04, Collections de BAnQ. DDGM visits Albion Lodge, W G Fellows accompanies.    
+The Quebec chronicle, 4 octobre 1921, Collections de BAnQ. DDGM visits Albion Lodge, W G Fellows accompanies.    
 https://numerique.banq.qc.ca/patrimoine/details/52327/3612762?docsearchtext=w%20g%20fellows
 
-La presse, 1947-09-19, Collections de BAnQ. Obituaire de William Gincell Fellows.    
+The Quebec chronicle, 1923-01-13, Collections de BAnQ.A&N Veterans hold a banquet.     
+https://numerique.banq.qc.ca/patrimoine/details/52327/3613156?docsearchtext=major%20fellows
+
+The Gazette, 19 01 1925, Collections de BAnQ.
+PQRA reports successful year. 
+https://www.oldnews.com/en/record?lang=en&record_id=record-10835-42100846&searchTerm=eJwtjLEOwjAMRH8lExNKKGHtwABs%2FIObuiKSnaRxWn4fB1h87%2B6sWxMwjk89Zkn26vzD%2BTsS5bdowNmeu8iexQ5f4qhAvbl0kZl%2FXnjxf6r6e1jLNlEM0GJObigEAcfbjqkZbDa3F1aDxbrThhOGo%2FMBEsygmS5L5EhQP0xINfg%3D&page_id=6
+
+The Quebec chronicle, 1918-09-27, Collections de BAnQ. Departure of a popular officer.    
+https://numerique.banq.qc.ca/patrimoine/details/52327/3611812?docsearchtext=william%20fellows
+
+La presse, 19 september 1947, Collections de BAnQ. Obituaire de William Gincell Fellows.    
 https://numerique.banq.qc.ca/patrimoine/details/52327/2959538?docsearchtext=grincell%20fellows
 
 
