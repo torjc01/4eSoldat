@@ -196,10 +196,10 @@ https://canadiangreatwarproject.com/person.php?pid=962599
 
 ## Newspapers clippings 
 
-Quebec morning chronicle, 1897-02-08, Collections de BAnQ. Wm.Fellows and Deaths: Catherine Black; A sad bereavement.    
+Quebec morning chronicle, 8 février 1897, Collections de BAnQ. Wm.Fellows and Deaths: Catherine Black; A sad bereavement.    
 https://numerique.banq.qc.ca/patrimoine/details/52327/3616344?docsearchtext=major%20fellows
 
-The daily witness, 1903-12-21, Collections de BAnQ.Sergeant-Major Fellowes of the RCA receives a testimonial.    
+The daily witness, 21 décembre 1903, Collections de BAnQ.Sergeant-Major Fellowes of the RCA receives a testimonial.    
 https://numerique.banq.qc.ca/patrimoine/details/52327/4704013?docsearchtext=major%20fellows
 
 The daily witness, 20 avril 1904, Collections de BAnQ. A military Promotion - W G Fellows.   
@@ -208,7 +208,7 @@ https://numerique.banq.qc.ca/patrimoine/details/52327/4704113?docsearchtext=will
 The Canada Gazette. Ottawa, Saturday, 4 janvier 1908. Promotions William Grincell Fellows.    
 https://books.google.ca/books?id=ICU-AQAAMAAJ&lpg=PA1923&ots=fSxzPNBJfE&dq=%22william%20grincell%20fellows%22&hl=pt-BR&pg=PA1701#v=onepage&q&f=false
 
-The Quebec chronicle, 1918-06-05, Collections de BAnQ.Presentation to Major M.G. Fellows.  Quebec Fraternal Club.     
+The Quebec chronicle, 5 juin 1918, Collections de BAnQ.Presentation to Major M.G. Fellows.  Quebec Fraternal Club.     
 https://numerique.banq.qc.ca/patrimoine/details/52327/3611712?docsearchtext=major%20fellows
 
 The Quebec chronicle, 27 september 1918, Collections de BAnQ. Departure of a popular officer.   
@@ -223,9 +223,6 @@ https://numerique.banq.qc.ca/patrimoine/details/52327/3613156?docsearchtext=majo
 The Gazette, 19 01 1925, Collections de BAnQ.
 PQRA reports successful year.     
 https://www.oldnews.com/en/record?lang=en&record_id=record-10835-42100846&searchTerm=eJwtjLEOwjAMRH8lExNKKGHtwABs%2FIObuiKSnaRxWn4fB1h87%2B6sWxMwjk89Zkn26vzD%2BTsS5bdowNmeu8iexQ5f4qhAvbl0kZl%2FXnjxf6r6e1jLNlEM0GJObigEAcfbjqkZbDa3F1aDxbrThhOGo%2FMBEsygmS5L5EhQP0xINfg%3D&page_id=6
-
-The Quebec chronicle, 1918-09-27, Collections de BAnQ. Departure of a popular officer.    
-https://numerique.banq.qc.ca/patrimoine/details/52327/3611812?docsearchtext=william%20fellows
 
 La presse, 19 september 1947, Collections de BAnQ. Obituaire de William Gincell Fellows.    
 https://numerique.banq.qc.ca/patrimoine/details/52327/2959538?docsearchtext=grincell%20fellows
