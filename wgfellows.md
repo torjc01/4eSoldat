@@ -221,7 +221,7 @@ The Quebec chronicle, 1923-01-13, Collections de BAnQ.A&N Veterans hold a banque
 https://numerique.banq.qc.ca/patrimoine/details/52327/3613156?docsearchtext=major%20fellows
 
 The Gazette, 19 01 1925, Collections de BAnQ.
-PQRA reports successful year. 
+PQRA reports successful year.     
 https://www.oldnews.com/en/record?lang=en&record_id=record-10835-42100846&searchTerm=eJwtjLEOwjAMRH8lExNKKGHtwABs%2FIObuiKSnaRxWn4fB1h87%2B6sWxMwjk89Zkn26vzD%2BTsS5bdowNmeu8iexQ5f4qhAvbl0kZl%2FXnjxf6r6e1jLNlEM0GJObigEAcfbjqkZbDa3F1aDxbrThhOGo%2FMBEsygmS5L5EhQP0xINfg%3D&page_id=6
 
 The Quebec chronicle, 1918-09-27, Collections de BAnQ. Departure of a popular officer.    
