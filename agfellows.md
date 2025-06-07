@@ -133,6 +133,9 @@ https://www.findagrave.com/memorial/156652478/alfred-grincell-fellows
 
 ## Newspaper clippings
 
+Quebec morning chronicle, 1898-04-29, Collections de BAnQ.For they are jolly good fellows. (Alfred Fellows at the piano)      
+https://numerique.banq.qc.ca/patrimoine/details/52327/3616728?docsearchtext=major%20fellows
+
 The Quebec chronicle, 1914-02-24, Collections de BAnQ.
 https://numerique.banq.qc.ca/patrimoine/details/52327/3610366
 
