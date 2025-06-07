@@ -196,7 +196,7 @@ https://canadiangreatwarproject.com/person.php?pid=962599
 
 ## Newspapers clippings 
 
-Quebec morning chronicle, 1897-02-08, Collections de BAnQ.Wm. Fellows and Deaths: Catherine Black; A sad bereavement.    
+Quebec morning chronicle, 1897-02-08, Collections de BAnQ. Wm.Fellows and Deaths: Catherine Black; A sad bereavement.    
 https://numerique.banq.qc.ca/patrimoine/details/52327/3616344?docsearchtext=major%20fellows
 
 The daily witness, 1903-12-21, Collections de BAnQ.Sergeant-Major Fellowes of the RCA receives a testimonial.    
