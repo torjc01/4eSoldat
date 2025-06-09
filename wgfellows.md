@@ -197,7 +197,7 @@ https://canadiangreatwarproject.com/person.php?pid=962599
 ## Newspapers clippings 
 
 Quebec morning chronicle, 8 février 1897, Collections de BAnQ.    
-Wm.Fellows and Deaths: Catherine Black; A sad bereavement.    
+Wm. Fellows and Deaths: Catherine Black; A sad bereavement.    
 https://numerique.banq.qc.ca/patrimoine/details/52327/3616344?docsearchtext=major%20fellows
 
 The daily witness, 21 décembre 1903, Collections de BAnQ.   
@@ -224,7 +224,8 @@ The Quebec chronicle, 4 octobre 1921, Collections de BAnQ.
 DDGM visits Albion Lodge, W G Fellows accompanies.    
 https://numerique.banq.qc.ca/patrimoine/details/52327/3612762?docsearchtext=w%20g%20fellows
 
-The Quebec chronicle, 1923-01-13, Collections de BAnQ.A&N Veterans hold a banquet.     
+The Quebec chronicle, 1923-01-13, Collections de BAnQ.     
+A&N Veterans hold a banquet.     
 https://numerique.banq.qc.ca/patrimoine/details/52327/3613156?docsearchtext=major%20fellows
 
 The Gazette, 19 janvier 1925, Collections de OldNews.    
