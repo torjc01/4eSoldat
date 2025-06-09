@@ -137,21 +137,27 @@ Quebec morning chronicle, 1898-04-29, Collections de BAnQ.
 For they are jolly good fellows. (Alfred Fellows at the piano)      
 https://numerique.banq.qc.ca/patrimoine/details/52327/3616728?docsearchtext=major%20fellows
 
-The Quebec chronicle, 1914-02-24, Collections de BAnQ.
+The Quebec chronicle, 1914-02-24, Collections de BAnQ.   
+Died Ivor Herbert.    
 https://numerique.banq.qc.ca/patrimoine/details/52327/3610366
 
-The Quebec chronicle, 1914-02-25, Collections de BAnQ.
+The Quebec chronicle, 1914-02-25, Collections de BAnQ.    
+The late Master Fellows.    
 https://numerique.banq.qc.ca/patrimoine/details/52327/3610367
 
-The daily witness, 1912-11-19, Collections de BAnQ.
-https://numerique.banq.qc.ca/patrimoine/details/52327/4698841
-
-L'action sociale, 1912-11-19, Collections de BAnQ.
+L'action sociale, 1912-11-19, Collections de BAnQ.   
+Un triste accident d'arme à feu.    
 https://numerique.banq.qc.ca/patrimoine/details/52327/2784474
 
-L'action sociale, 1912-11-21, Collections de BAnQ.
-https://numerique.banq.qc.ca/patrimoine/details/52327/2783107
+The daily witness, 1912-11-19, Collections de BAnQ.    
+Another fatal shooting accident. (search for Fellowes)   
+https://numerique.banq.qc.ca/patrimoine/details/52327/4698841
 
-The Quebec chronicle, 1912-11-19, Collections de BAnQ.
-https://numerique.banq.qc.ca/patrimoine/details/52327/3609975
+The Quebec chronicle, 1912-11-19, Collections de BAnQ.    
+9 years old boy kills playmate with a revolver.   
+https://numerique.banq.qc.ca/patrimoine/details/52327/3609975  
+
+L'action sociale, 1912-11-21, Collections de BAnQ.   
+Un triste accident d'arme à feu.   
+https://numerique.banq.qc.ca/patrimoine/details/52327/2783107
 
