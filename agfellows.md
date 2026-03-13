@@ -104,6 +104,59 @@ Tragedy struck once again when, 16 months later, Caroline's second son, Ivor, pa
 
 However, despite the immense challenges she faced, Caroline continued to live her life with strength and resilience. She persevered and found ways to carry on, even in the face of unimaginable grief. She lived in Québec City until the age of 75, leaving behind a legacy of endurance and determination.
 
+
+Enquete Coroner Alfred Fellows:  
+https://www2.banq.qc.ca/archives/genealogie_histoire_familiale/ressources/bd/recherche.html?id=CORONERS_QUEBEC&2=Fellows&3=&4=&5=&6=&7=&8=&9=&10=&11=&12=&13=&16=&17=&18=&19=
+
+```
+Détails
+
+    Nom : Fellows
+    Prénom : Alfred-Édouard
+    Profession - métier :
+    Lieu de résidence :
+    Âge : 10 ans
+    Parents : Fils de Caroline Reed
+    Date de décès / découverte du corps : 1912-11-19
+    Date de l'enquête : 1912-11-19
+    Lieu de l'enquête : Québec (Ville : Québec)
+    Nom du Coroner : G.-Will. Jolicoeur
+    Cause ou circonstances du décès - Verdict du coroner : Hémorragie causée par une balle de révolver reçue dans le cou
+    Présence de témoignages :
+    District judiciaire : Québec
+    Source : Archives nationales à Québec, TP12,S1,SS26,SSS1 (1960-01-353/2338), Fonds Cour des sessions de la paix, district de Québec
+    Numéro de dossier : 200
+    Résumé :
+```
+
+
+Enquete du Coroner Caroline Reed:  
+https://www2.banq.qc.ca/archives/genealogie_histoire_familiale/ressources/bd/recherche.html?id=CORONERS_QUEBEC&2=Read&3=&4=&5=&6=&7=&8=&9=&10=&11=&12=&13=&16=&17=&18=&19=
+
+
+
+```
+    Détails
+
+    Nom : Read
+    Prénom : Carolini b
+    Profession - métier :
+    Lieu de résidence : Saint-Michel-Archange (Asile d'aliénés de). Variantes du nom: Asile de Beauport, Hôpital Robert-Giffard, Mastaï (Originaire de Québec)
+    Âge : 76 ans
+    Parents : Épouse d'Alfred Fellows
+    Date de décès / découverte du corps : 1948-12-26
+    Date de l'enquête : 1948-12-26
+    Lieu de l'enquête : Mastaï (Lieu-dit : Beauport)
+    Nom du Coroner : Marceau, Paul-V.
+    Cause ou circonstances du décès - Verdict du coroner : Myocardite et néphrite chronique, hypertension artérielle
+    Présence de témoignages : oui
+    District judiciaire : Québec
+    Source : Archives nationales à Québec, TP12,S1,SS26,SSS1 (1998-12-001/1), Fonds Cour des sessions de la paix, district de Québec
+    Numéro de dossier : 10858
+    Résumé :
+```
+
+
 **Timeline**
 ```
 1872 Birth of Catherine Agnes Black 
