@@ -88,9 +88,46 @@ https://www.findagrave.com/memorial/156648143/ivor_herbert_fellows
 Alfred Edward Fellows, born about 1902 and buried Nov 20th 1912. 
 https://www.ancestry.ca/discoveryui-content/view/1086793:1091
 
+### **Catherine Agnes Black**
+
+As a member of the family states: 
+
+*"What I know of Catherine Fellows is that she, along with her friend were walking along a street when a delivery cart was racing down the road.  One of the 8" wide leather reins got away from the driver and as the horses galloped past the women, the rein slapped both women across their belly.  They were both pregnant and shared the same doctor.  With large welts across their bellies, they both went to the doctor who assured both women their babies were fine.  Both women died within a few months having their babies dying that very day.  I'm told both women are buried side by side.  I'm assuming they are in Mount Hermon since my family is United but am not aware of her gravesite location."*
+
+
+[BAnQ - Registre d'enterrement dans Mount Hermon](https://www2.banq.qc.ca/archives/genealogie_histoire_familiale/ressources/bd/recherche.html?id=HERMON_20170823&2=black&3=Catherine&5=&6=&8=&9=&10=&11=&12=&13=&14=&15=&17=)
+
+```
+29 - Catherine A. and infant Black
+Cimetières
+Titre de l'instrument : Le registre d’inhumation du Mount Hermon Cemetery, 1848-1950 (Mise à jour 5 janvier 2023)
+
+Détails
+
+    Family name / Nom : Black
+    Given name / Prénom : Catherine A. and infant
+    Gender / Sexe : F
+    Occupation / Profession :
+    Place of birth / Lieu de naissance : Quebec
+    Age / Âge : 24 years
+    Place of death / Lieu du décès : Quebec
+    Date of death / Date du décès : 1897-02-05
+    Disease or cause of death / Cause du décès (1848-1938) : child birth
+    Where buried / Lieu d'inhumation : F S. G.
+    Date of interment / Date d'inhumation : 1897-02-08
+    Religious denomination / Religion : Church of England
+    Officiating clergyman / Célébrant : Rev. L. W. Williams
+    Date of birth / Date de naissance :
+    Church / Église :
+    Remarks / Remarques : wife of A. Fellows
+```
+
+
+
+
 ## Alfred's sad history
 
-SGM A.G.Fellows was born on May 7th 1865. He married Catherine Agnes Black, age 20 from Québec City, on Nov 22nd 1893, when he was 28 years-old. His first daughter, Irene May, was born on Sept 16th 1894 and the second daughter, Vera Blanche, on Sept 11th the next year. At the end of 1896 Catherine suffered a most unfortunate accident: a horse cart lost control and the reins hit Catherine and a friend that were passing by. She was then expecting a baby; she survived the immediate accident, but passed away at the delivery of the baby, the accident being thought of as a major cause of her passing. The baby also passed away at birth. Curiously, the friend that was with her also passed away, following the accident. Sgt Fellows is left widower and alone, with two baby girls to raise, ohe aged 2 1/2 y-o and the other 1 1/2 years old. So his brother, Sgt Major William Grincell Fellows came to help and took the two babies to take care at his home, aided by his wife Alice.
+SGM A.G.Fellows was born on May 7th 1865. He married  Agnes Black, age 20 from Québec City, on Nov 22nd 1893, when he was 28 years-old. His first daughter, Irene May, was born on Sept 16th 1894 and the second daughter, Vera Blanche, on Sept 11th the next year. At the end of 1896  suffered a most unfortunate accident: a horse cart lost control and the reins hit  and a friend that were passing by. She was then expecting a baby; she survived the immediate accident, but passed away at the delivery of the baby, the accident being thought of as a major cause of her passing. The baby also passed away at birth. Curiously, the friend that was with her also passed away, following the accident. Sgt Fellows is left widower and alone, with two baby girls to raise, ohe aged 2 1/2 y-o and the other 1 1/2 years old. So his brother, Sgt Major William Grincell Fellows came to help and took the two babies to take care at his home, aided by his wife Alice.
 
 Three and a half years later, Sgt Major Fellows married Caroline "Carrie" H Reid in Québec. He brings over his daughters to raise them with his new wife, as stated in the 1901 Canadian Census. They were then 6 and 5 years-old. Shortly after, in January 1902 the couple had their first son, Alfred Edward; the other son, Ivor Herbert would be born in April 1906. Everything seemed to be getting back on track to the family. The 1911 Census of Canada shows all of them living together at 22 Lachevrotière Street, in Québec downtown. By this time, Sgt Major Fellows is serving the RCGA, does instruction drills for the garrison, the kids are growing...
 
@@ -159,11 +196,11 @@ https://www2.banq.qc.ca/archives/genealogie_histoire_familiale/ressources/bd/rec
 
 **Timeline**
 ```
-1872 Birth of Catherine Agnes Black 
-1893 Marriage to Catherine Agnes Black (Nov 22nd)
+1872 Birth of  Agnes Black 
+1893 Marriage to  Agnes Black (Nov 22nd)
 1894 Birth Irene May Fellows (Sept 16th)
 1895 Birth Vera Blanche Fellows (Sept 11th)
-1897 Death of Catherine and stillborn child (Feb 5th - 24 y-o) 
+1897 Death of  and stillborn child (Feb 5th - 24 y-o) 
 1900 Marriage with Caroline H Reed (Oct 31st)
 1902 Birth Alfred Edward Fellows (Jan)
 1906 Birth Ivor Herbert Fellows (Apr 5th)
