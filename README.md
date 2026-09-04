@@ -14,9 +14,7 @@
 
 <!-- FIN ENTETE -->
 
-# Le Quatrième Soldat  
 
-## TVF Lt-Col Charles Alexander Young, MC, VD 1895-1963
 
 ```
 Legend 
